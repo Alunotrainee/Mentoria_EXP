@@ -2,11 +2,11 @@
 
 ## 📚 Começando do ZERO? Comece por aqui! 
 
-🔖 [VOX](https://www.youtube.com/watch?v=TNQsmPf24go&t=597s) - Como a internet funciona 
-🔖 [Curso em Vídeo](https://www.youtube.com/watch?v=nlO5hySqJFA&t=731s) - Como a internet funciona detalhado
-🔖 [DBA PRO](https://www.youtube.com/watch?v=XfO3TRvESBo) - fundamentos de banco de dados
-🔖 [EU TI Ensino](https://www.youtube.com/watch?v=yjfB-asZVF4) - Fundamentos de Sistemas Operacionais
-🔖 [Curso em Vídeo](https://www.youtube.com/watch?v=QkMbqL8QD9w&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) - Fundamentos de Redes de Computadores
+🔖 [VOX](https://www.youtube.com/watch?v=TNQsmPf24go&t=597s) - Como a internet funciona  <br>
+🔖 [Curso em Vídeo](https://www.youtube.com/watch?v=nlO5hySqJFA&t=731s) - Como a internet funciona detalhado <br>
+🔖 [DBA PRO](https://www.youtube.com/watch?v=XfO3TRvESBo) - fundamentos de banco de dados <br>
+🔖 [EU TI Ensino](https://www.youtube.com/watch?v=yjfB-asZVF4) - Fundamentos de Sistemas Operacionais <br>
+🔖 [Curso em Vídeo](https://www.youtube.com/watch?v=QkMbqL8QD9w&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) - Fundamentos de Redes de Computadores <br>
 
 
 ## 📚 Sites para estudar programação
