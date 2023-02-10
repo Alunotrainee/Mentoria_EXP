@@ -1,5 +1,14 @@
 # Mentoria_EXP
 
+## 📚 Começando do ZERO? Comece por aqui! 
+
+🔖 [VOX](https://www.youtube.com/watch?v=TNQsmPf24go&t=597s) - Como a internet funciona 
+🔖 [Curso em Vídeo](https://www.youtube.com/watch?v=nlO5hySqJFA&t=731s) - Como a internet funciona detalhado
+🔖 [DBA PRO](https://www.youtube.com/watch?v=XfO3TRvESBo) - fundamentos de banco de dados
+🔖 [EU TI Ensino](https://www.youtube.com/watch?v=yjfB-asZVF4) - Fundamentos de Sistemas Operacionais
+🔖 [Curso em Vídeo](https://www.youtube.com/watch?v=QkMbqL8QD9w&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) - Fundamentos de Redes de Computadores
+
+
 ## 📚 Sites para estudar programação
 
 🔖 [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado <br>
@@ -8,6 +17,7 @@
 🔖 [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado <br>
 🔖[SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web <br>
 🔖 [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo <br>
+
 
 ## 📚 Sites para aprender a programar jogando
 
@@ -18,6 +28,7 @@
 🔖 [Code Monkey](https://codemonkey.com) - CodeMonkey é um ambiente de codificação de computador educacional que permite que iniciantes aprendam conceitos e linguagens de programação de computador. <br>
 🔖 [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
 🔖 [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
+
 
 ## 📚 Linguagens de programação
 
