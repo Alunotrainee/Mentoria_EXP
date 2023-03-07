@@ -8,6 +8,9 @@
 🔖 [EU TI Ensino](https://www.youtube.com/watch?v=yjfB-asZVF4) - Fundamentos de Sistemas Operacionais <br>
 🔖 [Curso em Vídeo](https://www.youtube.com/watch?v=QkMbqL8QD9w&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) - Fundamentos de Redes de Computadores <br>
 
+## 📚 Quer aprender a pensar como programador?
+🔖 [RachaCuca](https://rachacuca.com.br/logica/problemas/teste-de-einstein/) - Teste de lógica pura
+
 
 ## 📚 Sites para estudar programação
 
