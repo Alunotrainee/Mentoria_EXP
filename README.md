@@ -593,7 +593,7 @@ PHP/LARAVEL —> LIBRARY —> ORM —> [MONGOOSE](https://www.mongodb.com/compat
 PHP/LARAVEL —> LIBRARY —> ORM —> [DOCTRINE](https://www.doctrine-project.org/) <br>
 PHP/LARAVEL —> LIBRARY —> [MIGRATION](https://laravel.com/docs/10.x/migrations) <br> <br>
 
-# NODE
+## NODE
 
 NODE —> [CRUD](https://blog.geekhunter.com.br/criar-crud-nodejs/) <br> 
 NODE —> [POO](https://www.devmedia.com.br/poo-trabalhando-com-classes-e-objetos-em-javascript/28434) <br> <br>
@@ -649,7 +649,7 @@ NODE —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://www.oreilly.com/
 NODE —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
 NODE —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
 
-# JAVA
+## JAVA
 
 JAVA —> [CRUD](https://netbeans.apache.org/tutorials/nbm-crud_pt_BR.html) <br>
 JAVA —> [POO](https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/) <br>
@@ -694,7 +694,7 @@ JAVA —> LIBRARY —> ORM —> [EBEAN](https://www.baeldung.com/ebean-orm) <br>
 
 JAVA —> LIBRARY —> [MIGRATION](https://www.oreilly.com/library/view/java-9-modularity/9781491954157/ch10.html) <br> <br>
 
-# GOLANG
+## GOLANG
 
 GOLANG —> PRINCIPIOS —> [SOLID](https://andreleoni.medium.com/princípio-aberto-fechado-do-solid-com-golang-1e5b2d38b636) <br>
 GOLANG —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://dev.to/urielsouza29/kiss-yagni-dry-tres-principios-que-todo-desenvolvedor-deveria-conhecer-47gg) <br>
@@ -728,7 +728,7 @@ GOLANG —> LIBRARY —> ORM —> [TYPEORM](https://tutorialedge.net/golang/gola
 GOLANG —> LIBRARY —> ORM —> [MONGOOSE](https://www.mongodb.com/blog/post/quick-start-golang--mongodb--modeling-documents-with-go-data-structures) <br>
 GOLANG —> LIBRARY —> ORM —> [PRISMA](https://goprisma.org/) <br> <br>
 
-# PYTHON
+## PYTHON
 
 PYTHON —> [CRUD](https://www.hashtagtreinamentos.com/crud-em-python) <br>
 PYTHON —> [POO](https://pythonacademy.com.br/blog/introducao-a-programacao-orientada-a-objetos-no-python) <br> <br>
@@ -753,7 +753,7 @@ PYTHON —> LIBRARY —> ORM —> [SQL ALCHEMY](https://www.treinaweb.com.br/blo
 PYTHON —> LIBRARY —> ORM —> [PEEWEE](https://imasters.com.br/back-end/peewee-um-orm-python-minimalista) <br>
 PYTHON —> LIBRARY —> ORM —> [DJANGO](https://www.scaler.com/topics/django/django-orm/) <br> <br>
 
-# React/Vuejs
+## React/Vuejs
 
 React/Vuejs —> [Material UI](https://blog.rocketseat.com.br/react-material-ui/) <br>
 React/Vuejs —> [Context API](https://markus.oberlehner.net/blog/context-and-provider-pattern-with-the-vue-3-composition-api/) <br>
@@ -768,7 +768,7 @@ React/Vuejs —> [STYLED COMPONENTS](https://www.smashingmagazine.com/2020/07/st
 React/Vuejs —> [SSR](https://vuejs.org/guide/scaling-up/ssr.html) <br>
 React/Vuejs —> [SSG](https://blog.casadodesenvolvedor.com.br/renderizacao-web/) <br> <br>
  
-# ARQUITETURA
+## ARQUITETURA
 
 Frontend —> ARQUITETURA —> [SOLID](https://dev.to/guilhermeafonsomb/uma-experiencia-com-arquitetura-e-principios-solid-no-front-end-4jk8) <br>
 Frontend —> ARQUITETURA —> [Clean Code](https://lab.vortx.com.br/clean-architecture-front-end-e-o-caos/) <br>
@@ -776,7 +776,7 @@ Frontend —> ARQUITETURA —> [Microfrontend](https://www.treinaweb.com.br/blog
 Frontend —> ARQUITETURA —> [Imutabilidade](https://lume.ufrgs.br/bitstream/handle/10183/231869/001133554.pdf?sequence=1) <br>
 Frontend —> ARQUITETURA —> [Separation of Concerns](https://www.devmedia.com.br/amadurecendo-com-separation-of-concerns/18699) <br> <br>
 
-# VUEJS
+## VUEJS
 
 VUEJS —> [APollo](https://www.apollographql.com/blog/frontend/getting-started-with-vue-apollo/) <br>
 VUEJS —> [Tailwind](https://v2.tailwindcss.com/docs/guides/vue-3-vite) <br>
@@ -790,7 +790,7 @@ VUEJS —> [STYLED COMPONENTS](https://fsenaweb.medium.com/construindo-sua-aplic
 VUEJS —> [SSR —> Quasar/Nuxt](https://stackshare.io/stackups/nuxt-vs-quasar-framework) <br>
 VUEJS —> [SSG —> [Vuepress](https://vuejsbrasil.org/conheca-o-vuepress/) <br> <br>
 
-# TRÍADE
+## TRÍADE
 
 JS —> [VARIÁVEIS](https://www.devmedia.com.br/javascript-variaveis-e-constantes/41012) <br>
 JS —> [DATATYPES](https://www.w3schools.com/js/js_datatypes.asp) <br>
@@ -806,7 +806,7 @@ JS —> [WORKING WITH APIS](https://www.geeksforgeeks.org/working-with-apis-in-j
 JS —> [CLASSES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) <br>
 JS —> [MODULES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) <br> <br>
 
-# FLUTTER
+## FLUTTER
 
 FLUTTER —> [DART](https://www.devmedia.com.br/guia/flutter/40713) <br> <br>
 
@@ -866,7 +866,7 @@ FLUTTER —> Unit Testing —> [Integration](https://docs.flutter.dev/testing/in
 FLUTTER —> Unit Testing —> [TDD](https://www.browserstack.com/guide/tdd-in-flutter) <br>
 FLUTTER —> Unit Testing —> [BDD](https://medium.com/tide-engineering-team/build-flutter-with-bdd-b4507170a2fe) <br>
 
-# BANCO DE DADOS
+## BANCO DE DADOS
 
 BDD —> Relacional —> Postgres, Mysql, Sql Server —> <br><br>
 
