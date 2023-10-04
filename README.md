@@ -419,473 +419,474 @@
 
 ## Dev-ops
 
-[API Getaway](https://www.macoratti.net/21/04/aspc_apigocel1.htm) <br>
-[SQS](https://www.macoratti.net/21/04/net_masstrans1.htm) <br>
-[SNS](https://www.macoratti.net/15/07/asp5_2facta1.htm) <br>
-[Lambda](https://www.macoratti.net/18/05/c_explamb1.htm) <br>
-[DYNAMODB](https://aws.amazon.com/pt/dynamodb/) <br>
-[S3](https://aws.amazon.com/pt/s3/) <br>
-[EC2](https://aws.amazon.com/pt/ec2/instance-types/mac/) <br>
-[RDS](https://www.macoratti.net/vb_rds.htm) <br>
-[GLUE](https://docs.aws.amazon.com/pt_br/glue/latest/dg/what-is-glue.html) <br>
-[EKS](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html) <br>
-[ECS](https://aws.amazon.com/pt/ecs/) <br>
-[CLOUDWATCH](https://aws.amazon.com/pt/cloudwatch/) <br>
-[KINESIS](https://aws.amazon.com/pt/kinesis/) <br>
-[QUICKSIGHT](https://aws.amazon.com/pt/quicksight/) <br>
-[CODE BUILD](https://aws.amazon.com/pt/codebuild/) <br> <br>
+⚙ [API Getaway](https://www.macoratti.net/21/04/aspc_apigocel1.htm) <br>
+⚙ [SQS](https://www.macoratti.net/21/04/net_masstrans1.htm) <br>
+⚙ [SNS](https://www.macoratti.net/15/07/asp5_2facta1.htm) <br>
+⚙ [Lambda](https://www.macoratti.net/18/05/c_explamb1.htm) <br>
+⚙ [DYNAMODB](https://aws.amazon.com/pt/dynamodb/) <br>
+⚙ [S3](https://aws.amazon.com/pt/s3/) <br>
+⚙ [EC2](https://aws.amazon.com/pt/ec2/instance-types/mac/) <br>
+⚙ [RDS](https://www.macoratti.net/vb_rds.htm) <br>
+⚙ [GLUE](https://docs.aws.amazon.com/pt_br/glue/latest/dg/what-is-glue.html) <br>
+⚙ [EKS](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html) <br>
+⚙ [ECS](https://aws.amazon.com/pt/ecs/) <br>
+⚙ [CLOUDWATCH](https://aws.amazon.com/pt/cloudwatch/) <br>
+⚙ [KINESIS](https://aws.amazon.com/pt/kinesis/) <br>
+⚙ [QUICKSIGHT](https://aws.amazon.com/pt/quicksight/) <br>
+⚙ [CODE BUILD](https://aws.amazon.com/pt/codebuild/) <br> <br>
 
-[GCP](https://ipnet.cloud/blog/google-cloud-platform/tudo-que-voce-precisa-saber-sobre-o-google-cloud-platform/) <br>
-[AZURE](https://macoratti.net/15/08/mvc_azure2.htm) <br>
-[ORACLEDB](https://www.portalgsti.com.br/oracle-database/sobre/) <br>
-[CLOUDFLARE](https://www.remessaonline.com.br/blog/o-que-e-cloudflare-saiba-para-que-serve-e-como-pagar-menos/) <br> <br>
+⚙ [GCP](https://ipnet.cloud/blog/google-cloud-platform/tudo-que-voce-precisa-saber-sobre-o-google-cloud-platform/) <br>
+⚙ [AZURE](https://macoratti.net/15/08/mvc_azure2.htm) <br>
+⚙ [ORACLEDB](https://www.portalgsti.com.br/oracle-database/sobre/) <br>
+⚙ [CLOUDFLARE](https://www.remessaonline.com.br/blog/o-que-e-cloudflare-saiba-para-que-serve-e-como-pagar-menos/) <br> <br>
 
-[SERVERLESS](https://www.redhat.com/pt-br/topics/cloud-native-apps/what-is-serverless) <br>
-[CLOUDFORMATION](https://aws.amazon.com/pt/cloudformation/) <br>
-[TERRAFORM](https://www.gocache.com.br/dicas/o-que-e-terraform-e-quais-suas-aplicacoes/) <br>
-[ANSIBLE](https://4linux.com.br/o-que-e-ansible/) <br> <br>
+⚙ [SERVERLESS](https://www.redhat.com/pt-br/topics/cloud-native-apps/what-is-serverless) <br>
+⚙ [CLOUDFORMATION](https://aws.amazon.com/pt/cloudformation/) <br>
+⚙ [TERRAFORM](https://www.gocache.com.br/dicas/o-que-e-terraform-e-quais-suas-aplicacoes/) <br>
+⚙ [ANSIBLE](https://4linux.com.br/o-que-e-ansible/) <br> <br>
 
-[GITHUB](https://ebaconline.com.br/blog/o-que-e-github) <br>
-[GITLAB](https://blog.4linux.com.br/ci-cd-com-gitlab/) <br>
-[GITFLOW](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow) <br><br>
+⚙ [GITHUB](https://ebaconline.com.br/blog/o-que-e-github) <br>
+⚙ [GITLAB](https://blog.4linux.com.br/ci-cd-com-gitlab/) <br>
+⚙ [GITFLOW](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow) <br><br>
 
-[BITRISE](https://medium.com/android-dev-br/introdução-bitrise-ci-cd-para-android-ded947f2ee47) <br><br>
+⚙ [BITRISE](https://medium.com/android-dev-br/introdução-bitrise-ci-cd-para-android-ded947f2ee47) <br><br>
 
-[Docker File](https://www.alura.com.br/artigos/desvendando-o-dockerfile) <br>
-[Docker HUB](https://www.zup.com.br/blog/o-que-e-docker-e-conteiner) <br>
-[Openshift](https://www.treinaweb.com.br/blog/o-que-e-o-openshift) <br>
+⚙ [Docker File](https://www.alura.com.br/artigos/desvendando-o-dockerfile) <br>
+⚙ [Docker HUB](https://www.zup.com.br/blog/o-que-e-docker-e-conteiner) <br>
+⚙ [Openshift](https://www.treinaweb.com.br/blog/o-que-e-o-openshift) <br>
 
-[SHELLSCRIPT](https://www.alura.com.br/artigos/automatizando-tarefas-com-shell-script) <br> <br>
+⚙ [SHELLSCRIPT](https://www.alura.com.br/artigos/automatizando-tarefas-com-shell-script) <br> <br>
 
-[GRAFANA](https://www.redhat.com/pt-br/topics/data-services/what-is-grafana) <br>
-[KIBANA](https://medium.com/@wanderson.coord/kibana-incrível-ferramenta-para-você-analisar-suas-aplicações-bancos-e-servidores-6824d825b3da) <br>
-[DATADOG](https://www.gocache.com.br/dicas/o-que-e-datadog/) <br>
-[OPSGENIE](https://www.atlassian.com/br/software/opsgenie/what-is-opsgenie) <br>
-[CLOUDWATCH](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html) <br>
-[SENTRY](https://fjorgemota.com/2015/08/03/sentry-monitoramento-de-bugs-em-aplicacoes/) <br>
-[NEW RELIC](https://newrelic.com/pt/resources/datasheets/new-relic-one) <br> <br>
+⚙ [GRAFANA](https://www.redhat.com/pt-br/topics/data-services/what-is-grafana) <br>
+⚙ [KIBANA](https://medium.com/@wanderson.coord/kibana-incrível-ferramenta-para-você-analisar-suas-aplicações-bancos-e-servidores-6824d825b3da) <br>
+⚙ [DATADOG](https://www.gocache.com.br/dicas/o-que-e-datadog/) <br>
+⚙ [OPSGENIE](https://www.atlassian.com/br/software/opsgenie/what-is-opsgenie) <br>
+⚙ [CLOUDWATCH](https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html) <br>
+⚙ [SENTRY](https://fjorgemota.com/2015/08/03/sentry-monitoramento-de-bugs-em-aplicacoes/) <br>
+⚙[NEW RELIC](https://newrelic.com/pt/resources/datasheets/new-relic-one) <br> <br>
 
-[SONARQUBE](https://konia.com.br/o-que-e-o-sonarqube/) <br>
-[NAGIOS](https://tecnologicasduvidas.blogspot.com/2016/12/o-que-e-nagios.html) <br>
-[DYNATRACE](https://scalait.com/dynatrace/) <br>
-[SUPERVISORCTL](https://manpages.ubuntu.com/manpages/jammy/man1/supervisorctl.1.html) <br>
-[ZABIX](https://4linux.com.br/o-que-e-zabbix/) <br>
-[OPEN TELEMETRY](https://medium.com/gbtech/opentelemetry-na-nova-plataforma-de-integração-350e744b6a5f) <br> <br>
+⚙ [SONARQUBE](https://konia.com.br/o-que-e-o-sonarqube/) <br>
+⚙ [NAGIOS](https://tecnologicasduvidas.blogspot.com/2016/12/o-que-e-nagios.html) <br>
+⚙ [DYNATRACE](https://scalait.com/dynatrace/) <br>
+⚙ [SUPERVISORCTL](https://manpages.ubuntu.com/manpages/jammy/man1/supervisorctl.1.html) <br>
+⚙ [ZABIX](https://4linux.com.br/o-que-e-zabbix/) <br>
+⚙ [OPEN TELEMETRY](https://medium.com/gbtech/opentelemetry-na-nova-plataforma-de-integração-350e744b6a5f) <br> <br>
 
-## .NET C#
+## 🧾 .NET C#
 
-.NET C# —> [Crud](https://www.macoratti.net/17/03/cshp_crud1.htm) <br>
-.NET C# —> [POO](https://www.macoratti.net/net_oop1.htm) <br>
-.NET C# —> Princípios —> [Solid](https://www.macoratti.net/15/02/vda020215.htm) <br>
-.NET C# —> Princípios —> [DRY,YAGNI,KISS](https://vinioolvrs.medium.com/conheça-os-princípios-dry-kiss-e-yagni-9fc4ab46b0b9) <br>
-.NET C# —> Princípios —> [CLEAN CODE (7 top)](https://www.macoratti.net/17/05/c_codlimp1.htm) <br>
-.NET C# —> [API RESTFULL Alta maturidade](https://www.macoratti.net/17/08/net_rest1.htm) <br>
-.NET C# —> [DESIGN PATTERNS](https://www.macoratti.net/13/09/net_dp1.htm) <br>
-.NET C# —> DESIGN PATTERNS —> [CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs) <br>
-.NET C# —> DESIGN PATTERNS —> [MEDIATOR](https://refactoring.guru/pt-br/design-patterns/mediator/csharp/example) <br>
-.NET C# —> DESIGN PATTERNS —> [BUILDER](https://www.macoratti.net/19/05/net_builder1.htm) <br> 
-.NET C# —> DESIGN PATTERNS —> [TDD](https://onurvatan.medium.com/design-patterns-strategy-with-tdd-on-c-635387bc7fa4) <br>
-.NET C# —> DESIGN PATTERNS —> [FACADE](https://www.macoratti.net/13/04/net_facd.htm) <br>
-.NET C# —> DESIGN PATTERNS —> [FACTORY](https://www.macoratti.net/19/09/c_factory1.htm) <br>
-.NET C# —> DESIGN PATTERNS —> [EVENT SOURCING](https://medium.com/swlh/simple-event-souring-with-c-ec1eff55ee9d) <br>
-.NET C# —> DESIGN PATTERNS —> [REPOSITORY](https://www.macoratti.net/11/10/net_pr1.htm) <br>
-.NET C# —> DESIGN PATTERNS —> [MVC](https://www.devmedia.com.br/design-patterns-em-net-o-padrao-mvc/24063) <br>
-.NET C# —> DESIGN PATTERNS —> [STRATEGY](https://www.macoratti.net/19/01/c_strateg1.htm) <br>
-.NET C# —> DESIGN PATTERNS —> [TRANSPORTER](https://renatogroffe.medium.com/net-design-patterns-13-horas-de-vídeos-gratuitos-74aa2cc833d) <br> <br>
+⚙ .NET C# —> [Crud](https://www.macoratti.net/17/03/cshp_crud1.htm) <br>
+⚙ .NET C# —> [POO](https://www.macoratti.net/net_oop1.htm) <br>
+⚙ .NET C# —> Princípios —> [Solid](https://www.macoratti.net/15/02/vda020215.htm) <br>
+⚙ .NET C# —> Princípios —> [DRY,YAGNI,KISS](https://vinioolvrs.medium.com/conheça-os-princípios-dry-kiss-e-yagni-9fc4ab46b0b9) <br>
+⚙ .NET C# —> Princípios —> [CLEAN CODE (7 top)](https://www.macoratti.net/17/05/c_codlimp1.htm) <br>
+⚙ .NET C# —> [API RESTFULL Alta maturidade](https://www.macoratti.net/17/08/net_rest1.htm) <br>
+⚙ .NET C# —> [DESIGN PATTERNS](https://www.macoratti.net/13/09/net_dp1.htm) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [MEDIATOR](https://refactoring.guru/pt-br/design-patterns/mediator/csharp/example) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [BUILDER](https://www.macoratti.net/19/05/net_builder1.htm) <br> 
+⚙ .NET C# —> DESIGN PATTERNS —> [TDD](https://onurvatan.medium.com/design-patterns-strategy-with-tdd-on-c-635387bc7fa4) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [FACADE](https://www.macoratti.net/13/04/net_facd.htm) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [FACTORY](https://www.macoratti.net/19/09/c_factory1.htm) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [EVENT SOURCING](https://medium.com/swlh/simple-event-souring-with-c-ec1eff55ee9d) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [REPOSITORY](https://www.macoratti.net/11/10/net_pr1.htm) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [MVC](https://www.devmedia.com.br/design-patterns-em-net-o-padrao-mvc/24063) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [STRATEGY](https://www.macoratti.net/19/01/c_strateg1.htm) <br>
+⚙ .NET C# —> DESIGN PATTERNS —> [TRANSPORTER](https://renatogroffe.medium.com/net-design-patterns-13-horas-de-vídeos-gratuitos-74aa2cc833d) <br> <br>
 
-.NET C# —> ARQUITETURA —> [DDD](https://www.macoratti.net/20/07/net_dddini1.htm) <br>
-.NET C# —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://www.macoratti.net/21/03/net_dddonion1.htm) <br>
-.NET C# —> ARQUITETURA —> DDD —> [DOMÍNIO](https://www.macoratti.net/20/07/aspnc_ucddd1.htm) <br>
-.NET C# —> ARQUITETURA —> DDD —> [BOUNDED CONTEXT](https://www.eduardopires.net.br/2016/03/ddd-bounded-context/) <br>
-.NET C# —> ARQUITETURA —> DDD —> [MAP](https://www.macoratti.net/20/07/net_dddini2.htm) <br>
-.NET C# —> ARQUITETURA —> DDD —> [MODELS](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/net-core-microservice-domain-model) <br>
-.NET C# —> ARQUITETURA —> DDD —> [AGGREGATE](https://alexalvess.medium.com/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686) <br>
-.NET C# —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://www.anselme.com.br/2023/04/19/domain-service-no-domain-driven-design/) <br> <br>
+⚙ .NET C# —> ARQUITETURA —> [DDD](https://www.macoratti.net/20/07/net_dddini1.htm) <br>
+⚙ .NET C# —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://www.macoratti.net/21/03/net_dddonion1.htm) <br>
+⚙ .NET C# —> ARQUITETURA —> DDD —> [DOMÍNIO](https://www.macoratti.net/20/07/aspnc_ucddd1.htm) <br>
+⚙ .NET C# —> ARQUITETURA —> DDD —> [BOUNDED CONTEXT](https://www.eduardopires.net.br/2016/03/ddd-bounded-context/) <br>
+⚙ .NET C# —> ARQUITETURA —> DDD —> [MAP](https://www.macoratti.net/20/07/net_dddini2.htm) <br>
+⚙ .NET C# —> ARQUITETURA —> DDD —> [MODELS](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/net-core-microservice-domain-model) <br>
+⚙ .NET C# —> ARQUITETURA —> DDD —> [AGGREGATE](https://alexalvess.medium.com/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686) <br>
+⚙ .NET C# —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://www.anselme.com.br/2023/04/19/domain-service-no-domain-driven-design/) <br> <br>
 
-.NET C# —> ARQUITETURA —> [MICROSERVIÇOS](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f) <br>
-.NET C# —> ARQUITETURA —> MICROSERVIÇOS  —> [LOGGING](https://www.luisdev.com.br/2020/12/26/introducao-a-microsservicos/) <br>
-.NET C# —> ARQUITETURA —> MICROSERVIÇOS  —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
-.NET C# —> ARQUITETURA —> MICROSERVIÇOS  —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
+⚙ .NET C# —> ARQUITETURA —> [MICROSERVIÇOS](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f) <br>
+⚙ .NET C# —> ARQUITETURA —> MICROSERVIÇOS  —> [LOGGING](https://www.luisdev.com.br/2020/12/26/introducao-a-microsservicos/) <br>
+⚙ .NET C# —> ARQUITETURA —> MICROSERVIÇOS  —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
+⚙ .NET C# —> ARQUITETURA —> MICROSERVIÇOS  —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
 
-.NET C# —> LIBRARY —> [ORM](https://www.macoratti.net/15/12/adn_dapper1.htm) <br>
-.NET C# —> LIBRARY —> ORM  —> [ENTITY FRAMEWORK](https://www.macoratti.net/21/02/aspnc_efcoresepa1.htm) <br>
-.NET C# —> LIBRARY —> ORM  —> [DAPPER](https://www.macoratti.net/15/12/adn_dapper1.htm) <br>
-.NET C# —> LIBRARY —> ORM  —> [ENTITY FRAMEWORK CORE](https://learn.microsoft.com/en-us/ef/) <br> <br>
+⚙ .NET C# —> LIBRARY —> [ORM](https://www.macoratti.net/15/12/adn_dapper1.htm) <br>
+⚙ .NET C# —> LIBRARY —> ORM  —> [ENTITY FRAMEWORK](https://www.macoratti.net/21/02/aspnc_efcoresepa1.htm) <br>
+⚙ .NET C# —> LIBRARY —> ORM  —> [DAPPER](https://www.macoratti.net/15/12/adn_dapper1.htm) <br>
+⚙ .NET C# —> LIBRARY —> ORM  —> [ENTITY FRAMEWORK CORE](https://learn.microsoft.com/en-us/ef/) <br> <br>
 
-.NET C# —> LIBRARY —> [MIGRATION](https://www.macoratti.net/20/08/efc_migration1.htm) <br> 
-.NET C# —> LOGS —> [SERILOGS](https://www.macoratti.net/18/05/c_serilog1.htm) <br>
-.NET C# —> UNIT TESTING —> [XUNIT](https://www.macoratti.net/19/09/cshp_unitest1.htm) <br>
 
-## Ruby on Rails
+⚙ .NET C# —> LIBRARY —> [MIGRATION](https://www.macoratti.net/20/08/efc_migration1.htm) <br> 
+⚙ .NET C# —> LOGS —> [SERILOGS](https://www.macoratti.net/18/05/c_serilog1.htm) <br>
+⚙ .NET C# —> UNIT TESTING —> [XUNIT](https://www.macoratti.net/19/09/cshp_unitest1.htm) <br>
 
-Ruby on Rails —> [CRUD](https://www.devmedia.com.br/como-criar-um-crud-completo-com-rails/33986) <br>
-Ruby on Rails —> [POO](https://www.devmedia.com.br/orientacao-a-objetos-com-ruby/33726) <br> <br>
+## 🧾 Ruby on Rails
 
-Ruby on Rails —> PRINCIPIOS —> [SOLID](https://dev.to/womakerscode/principio-da-responsabilidade-unica-principios-s-o-l-i-d-3acc) <br>
-Ruby on Rails —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://dev.to/urielsouza29/kiss-yagni-dry-tres-principios-que-todo-desenvolvedor-deveria-conhecer-47gg) <br>
-Ruby on Rails —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://www.hostgator.com.br/blog/clean-code-o-que-e/) <br> <br>
+⚙ Ruby on Rails —> [CRUD](https://www.devmedia.com.br/como-criar-um-crud-completo-com-rails/33986) <br>
+⚙ Ruby on Rails —> [POO](https://www.devmedia.com.br/orientacao-a-objetos-com-ruby/33726) <br> <br>
 
-Ruby on Rails —> [API RESTFULL Alta maturidade](https://www.programmers.com.br/blog/niveis-de-maturidade-de-uma-api-rest/) <br> <br>
+⚙ Ruby on Rails —> PRINCIPIOS —> [SOLID](https://dev.to/womakerscode/principio-da-responsabilidade-unica-principios-s-o-l-i-d-3acc) <br>
+⚙ Ruby on Rails —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://dev.to/urielsouza29/kiss-yagni-dry-tres-principios-que-todo-desenvolvedor-deveria-conhecer-47gg) <br>
+⚙ Ruby on Rails —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://www.hostgator.com.br/blog/clean-code-o-que-e/) <br> <br>
 
-Ruby on Rails —> DESIGN PATTERNS —> [MVC](https://thefiend.medium.com/top-10-ruby-on-rails-design-patterns-for-speed-and-performance-14052d4afbc0) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [FACTORY](https://refactoring.guru/design-patterns/factory-method/ruby/example) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [REPOSITORY](https://lpapa.medium.com/repository-pattern-in-ruby-i-decoupling-activerecord-and-persistence-e395e1b0cf69) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [Unity of Work](https://scoutapm.com/blog/rails-design-patterns) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [EVENT SOURCING](https://dev.to/isalevine/building-an-event-sourcing-pattern-in-rails-from-scratch-355h) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [CQRS](https://blog.arkency.com/2015/09/cqrs-example-in-the-rails-app/) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [MEDIATOR](https://medium.com/@dljerome/design-patterns-in-ruby-mediator-169e77710e37) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [TDD](https://medium.com/@micosmin/learn-tdd-in-ruby-in-5-easy-steps-3ab28014fec4) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [FACADE](https://medium.com/kkempin/facade-design-pattern-in-ruby-on-rails-710aa88326f) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [STRATEGY](https://dev.to/lccezinha/design-patterns-in-ruby-strategy-pattern-21he) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [TRANSPORTER](https://www.bacancytechnology.com/blog/design-patterns-in-ruby-on-rails) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [PROTOTYPE](https://medium.com/@dljerome/design-patterns-in-ruby-prototype-342cb26ea75) <br>
-Ruby on Rails —> DESIGN PATTERNS —> [PROXY](https://medium.com/@dljerome/design-patterns-in-ruby-proxy-48a379a3b8d3) <br> <br>
+⚙ Ruby on Rails —> [API RESTFULL Alta maturidade](https://www.programmers.com.br/blog/niveis-de-maturidade-de-uma-api-rest/) <br> <br>
 
-Ruby on Rails —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://medium.com/@diego_moura/domain-driven-design-linguagem-ubíqua-f052f5eb6b18) <br>
-Ruby on Rails —> ARQUITETURA —> DDD —> [DOMÍNIO](https://guia.dev/pt/pillars/software-architecture/layers-and-architecture-patterns.html) <br>
-Ruby on Rails —> ARQUITETURA —> DDD —> [MAP](https://medium.com/@albertosouza_47783/ddd-para-aplicações-web-modernas-2be654932497) <br>
-Ruby on Rails —> ARQUITETURA —> DDD —> [AGGREGATE](https://www.visuality.pl/posts/aggregate-ddd-in-ruby-on-rails) <br> <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [MVC](https://thefiend.medium.com/top-10-ruby-on-rails-design-patterns-for-speed-and-performance-14052d4afbc0) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [FACTORY](https://refactoring.guru/design-patterns/factory-method/ruby/example) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [REPOSITORY](https://lpapa.medium.com/repository-pattern-in-ruby-i-decoupling-activerecord-and-persistence-e395e1b0cf69) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [Unity of Work](https://scoutapm.com/blog/rails-design-patterns) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [EVENT SOURCING](https://dev.to/isalevine/building-an-event-sourcing-pattern-in-rails-from-scratch-355h) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [CQRS](https://blog.arkency.com/2015/09/cqrs-example-in-the-rails-app/) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [MEDIATOR](https://medium.com/@dljerome/design-patterns-in-ruby-mediator-169e77710e37) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [TDD](https://medium.com/@micosmin/learn-tdd-in-ruby-in-5-easy-steps-3ab28014fec4) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [FACADE](https://medium.com/kkempin/facade-design-pattern-in-ruby-on-rails-710aa88326f) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [STRATEGY](https://dev.to/lccezinha/design-patterns-in-ruby-strategy-pattern-21he) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [TRANSPORTER](https://www.bacancytechnology.com/blog/design-patterns-in-ruby-on-rails) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [PROTOTYPE](https://medium.com/@dljerome/design-patterns-in-ruby-prototype-342cb26ea75) <br>
+⚙ Ruby on Rails —> DESIGN PATTERNS —> [PROXY](https://medium.com/@dljerome/design-patterns-in-ruby-proxy-48a379a3b8d3) <br> <br>
 
-Ruby on Rails —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://dev.to/pedrokiefer/arquitetura-escalavel-335g) <br>
-Ruby on Rails —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://slides.com/caiosba/fisl18) <br>
-Ruby on Rails —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://community.revelo.com.br/ferramentas-e-arquitetura-de-software-rails-react-bff/) <br> <br>
+⚙ Ruby on Rails —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://medium.com/@diego_moura/domain-driven-design-linguagem-ubíqua-f052f5eb6b18) <br>
+⚙ Ruby on Rails —> ARQUITETURA —> DDD —> [DOMÍNIO](https://guia.dev/pt/pillars/software-architecture/layers-and-architecture-patterns.html) <br>
+⚙ Ruby on Rails —> ARQUITETURA —> DDD —> [MAP](https://medium.com/@albertosouza_47783/ddd-para-aplicações-web-modernas-2be654932497) <br>
+⚙ Ruby on Rails —> ARQUITETURA —> DDD —> [AGGREGATE](https://www.visuality.pl/posts/aggregate-ddd-in-ruby-on-rails) <br> <br>
 
-Ruby on Rails —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@cristianosperb/construindo-micro-serviços-na-prática-parte-1-9cd8a7ca6ae3) <br>
-Ruby on Rails —> LIBRARY —> ORM —> [ACTIVE RECORD](https://www.altcademy.com/blog/what-is-object-relational-mapping-orm-in-ruby-on-rails/) <br>
-Ruby on Rails —> LIBRARY —> [MIGRATION](https://www.tutorialspoint.com/ruby-on-rails/rails-migrations.htm) <br> <br>
+⚙ Ruby on Rails —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://dev.to/pedrokiefer/arquitetura-escalavel-335g) <br>
+⚙ Ruby on Rails —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://slides.com/caiosba/fisl18) <br>
+⚙ Ruby on Rails —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://community.revelo.com.br/ferramentas-e-arquitetura-de-software-rails-react-bff/) <br> <br>
 
-## PHP/LARAVEL
+⚙ Ruby on Rails —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@cristianosperb/construindo-micro-serviços-na-prática-parte-1-9cd8a7ca6ae3) <br>
+⚙ Ruby on Rails —> LIBRARY —> ORM —> [ACTIVE RECORD](https://www.altcademy.com/blog/what-is-object-relational-mapping-orm-in-ruby-on-rails/) <br>
+⚙ Ruby on Rails —> LIBRARY —> [MIGRATION](https://www.tutorialspoint.com/ruby-on-rails/rails-migrations.htm) <br> <br>
 
-PHP/LARAVEL —> [CRUD](https://imasters.com.br/php/como-fazer-um-crud-no-laravel-do-zero-parte-1) <br>
-PHP/LARAVEL —> [POO](https://cursos.alura.com.br/forum/topico-como-funciona-poo-em-php-e-laravel-318037) <br> <br>
+## 🧾 PHP/LARAVEL
 
-PHP/LARAVEL —> PRINCIPIOS —> [SOLID](https://www.linkedin.com/pulse/aplicando-os-princípios-solid-laravel-exemplos-cristian-bernardes/?originalSubdomain=pt) <br>
-PHP/LARAVEL —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://vinioolvrs.medium.com/conheça-os-princípios-dry-kiss-e-yagni-9fc4ab46b0b9) <br>
-PHP/LARAVEL —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7) <br> <br>
+⚙ PHP/LARAVEL —> [CRUD](https://imasters.com.br/php/como-fazer-um-crud-no-laravel-do-zero-parte-1) <br>
+⚙ PHP/LARAVEL —> [POO](https://cursos.alura.com.br/forum/topico-como-funciona-poo-em-php-e-laravel-318037) <br> <br>
 
-PHP/LARAVEL —> DESIGN PATTERNS —> [CQRS](https://mevelix.com/articles/laravel-cqrs-from-scratch,1) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [TDD](https://jsdecena.medium.com/simple-tdd-in-laravel-with-11-steps-c475f8b1b214) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [BUILDER](https://laraveldaily.com/post/design-patterns-laravel-builder-example) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [FACADE](https://dev.to/ahmedash95/design-patterns-in-php-facade-with-laravel-j24) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [FACTORY](https://medium.com/@shaunthornburgh/implementing-the-factory-pattern-in-a-laravel-application-c96bb6085741) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [EVENT SOURCING](https://laravel-news.com/event-sourcing-in-laravel) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [REPOSITORY](https://www.twilio.com/blog/repository-pattern-in-laravel-application) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [MVC](https://pusher.com/blog/laravel-mvc-use/) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [STRATEGY](https://ashallendesign.co.uk/blog/using-the-strategy-pattern-in-laravel) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [TRANSPORTER](https://dev.to/zhukmax/design-patterns-in-php-8-simple-factory-o0l) <br>
-PHP/LARAVEL —> DESIGN PATTERNS —> [MEDIATOR](https://refactoring.guru/design-patterns/mediator/php/example) <br> <br>
+⚙ PHP/LARAVEL —> PRINCIPIOS —> [SOLID](https://www.linkedin.com/pulse/aplicando-os-princípios-solid-laravel-exemplos-cristian-bernardes/?originalSubdomain=pt) <br>
+⚙ PHP/LARAVEL —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://vinioolvrs.medium.com/conheça-os-princípios-dry-kiss-e-yagni-9fc4ab46b0b9) <br>
+⚙ PHP/LARAVEL —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7) <br> <br>
 
-PHP/LARAVEL —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://www.alura.com.br/conteudo/domain-driven-design-php) <br>
-PHP/LARAVEL —> ARQUITETURA —> DDD —> [BOUNDED CONTEXT](https://martinfowler.com/bliki/BoundedContext.html) <br>
-PHP/LARAVEL —> ARQUITETURA —> DDD —> [MAP](https://www.linkedin.com/pulse/desmistificando-o-domain-driven-design-ddd-laravel-de-bernardes/?originalSubdomain=pt) <br>
-PHP/LARAVEL —> ARQUITETURA —> DDD —> [MODELS](https://www.zup.com.br/blog/domain-driven-design-ddd) <br>
-PHP/LARAVEL —> ARQUITETURA —> DDD —> [AGGREGATE](https://dev.to/bdelespierre/domain-driven-design-aggregates-in-laravel-5ei8) <br>
-PHP/LARAVEL —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://blog.renatolucena.net/post/a-domain-driven-design-ddd-laravel-framework) <br>
-PHP/LARAVEL —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://medium.com/@carlosbueno.kinder/o-que-é-domain-services-como-usar-f8a31410b165) <br> <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [CQRS](https://mevelix.com/articles/laravel-cqrs-from-scratch,1) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [TDD](https://jsdecena.medium.com/simple-tdd-in-laravel-with-11-steps-c475f8b1b214) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [BUILDER](https://laraveldaily.com/post/design-patterns-laravel-builder-example) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [FACADE](https://dev.to/ahmedash95/design-patterns-in-php-facade-with-laravel-j24) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [FACTORY](https://medium.com/@shaunthornburgh/implementing-the-factory-pattern-in-a-laravel-application-c96bb6085741) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [EVENT SOURCING](https://laravel-news.com/event-sourcing-in-laravel) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [REPOSITORY](https://www.twilio.com/blog/repository-pattern-in-laravel-application) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [MVC](https://pusher.com/blog/laravel-mvc-use/) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [STRATEGY](https://ashallendesign.co.uk/blog/using-the-strategy-pattern-in-laravel) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [TRANSPORTER](https://dev.to/zhukmax/design-patterns-in-php-8-simple-factory-o0l) <br>
+⚙ PHP/LARAVEL —> DESIGN PATTERNS —> [MEDIATOR](https://refactoring.guru/design-patterns/mediator/php/example) <br> <br>
 
-PHP/LARAVEL —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://blog.renatolucena.net/post/entendendo-a-arquitetura-de-microservices) <br>
-PHP/LARAVEL —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://stackoverflow.com/questions/53497953/difference-between-a-module-microservice) <br>
-PHP/LARAVEL —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
-PHP/LARAVEL —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://www.alura.com.br/conteudo/domain-driven-design-php) <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> DDD —> [BOUNDED CONTEXT](https://martinfowler.com/bliki/BoundedContext.html) <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> DDD —> [MAP](https://www.linkedin.com/pulse/desmistificando-o-domain-driven-design-ddd-laravel-de-bernardes/?originalSubdomain=pt) <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> DDD —> [MODELS](https://www.zup.com.br/blog/domain-driven-design-ddd) <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> DDD —> [AGGREGATE](https://dev.to/bdelespierre/domain-driven-design-aggregates-in-laravel-5ei8) <br>
+⚙PHP/LARAVEL —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://blog.renatolucena.net/post/a-domain-driven-design-ddd-laravel-framework) <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://medium.com/@carlosbueno.kinder/o-que-é-domain-services-como-usar-f8a31410b165) <br> <br>
 
-PHP/LARAVEL —> LIBRARY —> ORM —> [ELOQUENT](https://medium.com/laraveltips/eloquent-avançado-introdução-d0515fe0f3c6) <br> 
-PHP/LARAVEL —> LIBRARY —> ORM —> [MONGOOSE](https://www.mongodb.com/compatibility/mongodb-laravel-intergration) <br>
-PHP/LARAVEL —> LIBRARY —> ORM —> [DOCTRINE](https://www.doctrine-project.org/) <br>
-PHP/LARAVEL —> LIBRARY —> [MIGRATION](https://laravel.com/docs/10.x/migrations) <br> <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://blog.renatolucena.net/post/entendendo-a-arquitetura-de-microservices) <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://stackoverflow.com/questions/53497953/difference-between-a-module-microservice) <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
+⚙ PHP/LARAVEL —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
 
-## NODE
+⚙ PHP/LARAVEL —> LIBRARY —> ORM —> [ELOQUENT](https://medium.com/laraveltips/eloquent-avançado-introdução-d0515fe0f3c6) <br> 
+⚙ PHP/LARAVEL —> LIBRARY —> ORM —> [MONGOOSE](https://www.mongodb.com/compatibility/mongodb-laravel-intergration) <br>
+⚙ PHP/LARAVEL —> LIBRARY —> ORM —> [DOCTRINE](https://www.doctrine-project.org/) <br>
+⚙ PHP/LARAVEL —> LIBRARY —> [MIGRATION](https://laravel.com/docs/10.x/migrations) <br> <br>
 
-NODE —> [CRUD](https://blog.geekhunter.com.br/criar-crud-nodejs/) <br> 
-NODE —> [POO](https://www.devmedia.com.br/poo-trabalhando-com-classes-e-objetos-em-javascript/28434) <br> <br>
+## 🧾 NODE
 
-NODE —> JS —> [VARIAVEIS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/) <br>
-NODE —> JS —> [DATATYPES](https://www.etutorialspoint.com/index.php/nodejs/node-js-datatype) <br>
-NODE —> JS —> [TYPE CASTING](https://www.w3schools.com/js/js_type_conversion.asp) <br>
-NODE —> JS —> [DATA STRUCTURES](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/) <br>
-NODE —> JS —> [EQUALITY COMPARISONS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) <br>
-NODE —> JS —> [LOOPS AND INTERACTIONS](https://heynode.com/tutorial/how-event-loop-works-nodejs/) <br>
-NODE —> JS —> [CONTROL FLOW](https://medium.com/capital-one-tech/node-js-control-flow-an-overview-68f76ef750c3) <br>
-NODE —> JS —> [FUNCTIONS](https://www.geeksforgeeks.org/node-js-basics/) <br>
-NODE —> JS —> [STRICT MODE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) <br>
-NODE —> JS —> [ASYNCHRONOUS JS](https://nodejs.dev/en/learn/javascript-asynchronous-programming-and-callbacks/) <br>
-NODE —> JS —> [WORKING WITH APIS](https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/) <br>
-NODE —> JS —> [CLASSES](https://www.luiztools.com.br/post/como-criar-classes-em-javascript-es6-e-node-js/) <br>
-NODE —> JS —> [MODULES](https://www.w3schools.com/nodejs/nodejs_modules.asp) <br>
+⚙ NODE —> [CRUD](https://blog.geekhunter.com.br/criar-crud-nodejs/) <br> 
+⚙ NODE —> [POO](https://www.devmedia.com.br/poo-trabalhando-com-classes-e-objetos-em-javascript/28434) <br> <br>
 
-NODE —> PRINCIPIOS —> [SOLID](https://www.linkedin.com/pulse/princípios-solid-em-nodejs-bárbara-araújo/?originalSubdomain=pt) <br>
-NODE —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://awari.com.br/solid-kiss-dry-yagni/) <br>
-NODE —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://www.linkedin.com/pulse/resumindo-clean-code-architecture-e-solid-bernardo-rodrigues/?originalSubdomain=pt) <br>
-NODE —> LIBRARY —> ORM —> [SEQUELIZE](https://www.treinaweb.com.br/blog/usando-sequelize-orm-com-node-e-express) <br>
-NODE —> LIBRARY —> ORM —> [TYPEORM](https://typeorm.io/) <br>
-NODE —> LIBRARY —> ORM —> [MONGOOSE](https://medium.com/@tackpablo/introduction-to-mongoose-a-javascript-orm-ebb5f7bf8c8c) <br>
-NODE —> LIBRARY —> ORM —> [PRISMA](https://blog.rocketseat.com.br/prisma-uma-das-melhores-coisa-que-ja-aconteceu-no-ecossistema/) <br> <br>
+⚙ NODE —> JS —> [VARIAVEIS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/) <br>
+⚙ NODE —> JS —> [DATATYPES](https://www.etutorialspoint.com/index.php/nodejs/node-js-datatype) <br>
+⚙ NODE —> JS —> [TYPE CASTING](https://www.w3schools.com/js/js_type_conversion.asp) <br>
+⚙ NODE —> JS —> [DATA STRUCTURES](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/) <br>
+⚙ NODE —> JS —> [EQUALITY COMPARISONS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) <br>
+⚙ NODE —> JS —> [LOOPS AND INTERACTIONS](https://heynode.com/tutorial/how-event-loop-works-nodejs/) <br>
+⚙ NODE —> JS —> [CONTROL FLOW](https://medium.com/capital-one-tech/node-js-control-flow-an-overview-68f76ef750c3) <br>
+⚙ NODE —> JS —> [FUNCTIONS](https://www.geeksforgeeks.org/node-js-basics/) <br>
+⚙ NODE —> JS —> [STRICT MODE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) <br>
+⚙ NODE —> JS —> [ASYNCHRONOUS JS](https://nodejs.dev/en/learn/javascript-asynchronous-programming-and-callbacks/) <br>
+⚙ NODE —> JS —> [WORKING WITH APIS](https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/) <br>
+⚙ NODE —> JS —> [CLASSES](https://www.luiztools.com.br/post/como-criar-classes-em-javascript-es6-e-node-js/) <br>
+⚙ NODE —> JS —> [MODULES](https://www.w3schools.com/nodejs/nodejs_modules.asp) <br>
 
-NODE —> LIBRARY —> [MIGRATION](https://www.luiztools.com.br/post/tutorial-de-migrations-com-nodejs-e-sequelize/) <br> <br>
+⚙ NODE —> PRINCIPIOS —> [SOLID](https://www.linkedin.com/pulse/princípios-solid-em-nodejs-bárbara-araújo/?originalSubdomain=pt) <br>
+⚙ NODE —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://awari.com.br/solid-kiss-dry-yagni/) <br>
+⚙ NODE —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://www.linkedin.com/pulse/resumindo-clean-code-architecture-e-solid-bernardo-rodrigues/?originalSubdomain=pt) <br>
+⚙ NODE —> LIBRARY —> ORM —> [SEQUELIZE](https://www.treinaweb.com.br/blog/usando-sequelize-orm-com-node-e-express) <br>
+⚙ NODE —> LIBRARY —> ORM —> [TYPEORM](https://typeorm.io/) <br>
+⚙ NODE —> LIBRARY —> ORM —> [MONGOOSE](https://medium.com/@tackpablo/introduction-to-mongoose-a-javascript-orm-ebb5f7bf8c8c) <br>
+⚙ NODE —> LIBRARY —> ORM —> [PRISMA](https://blog.rocketseat.com.br/prisma-uma-das-melhores-coisa-que-ja-aconteceu-no-ecossistema/) <br> <br>
 
-NODE —> DESIGN PATTERNS —> [BUILDER](https://medium.com/zero-equals-false/builder-design-pattern-in-node-js-c942ac7354a9) <br> 
-NODE —> DESIGN PATTERNS —> [REPOSITORY](https://charlesodev.medium.com/aplicando-repository-pattern-com-nodejs-typescript-e-typeorm-e7d9c6253e31) <br>
-NODE —> DESIGN PATTERNS —> [MVC](https://blog.logrocket.com/building-structuring-node-js-mvc-application/) <br>
-NODE —> DESIGN PATTERNS —> [CQRS](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/) <br>
-NODE —> DESIGN PATTERNS —> [EVENT SOURCING](https://blog.risingstack.com/event-sourcing-with-examples-node-js-at-scale/) <br>
-NODE —> DESIGN PATTERNS —> [TDD](https://sergueymartinez.medium.com/tdd-bdd-in-javascript-world-node-mental-models-1-5-83d32d32623b) <br>
-NODE —> DESIGN PATTERNS —> [UNIT OF WORK](https://www.devmedia.com.br/unit-of-work-o-padrao-de-unidade-de-trabalho-net/25811) <br>
-NODE —> DESIGN PATTERNS —> [MEDIATOR](https://www.dofactory.com/javascript/design-patterns/mediator) <br>
-NODE —> DESIGN PATTERNS —> [FACADE](https://www.dofactory.com/javascript/design-patterns/facade) <br>
-NODE —> DESIGN PATTERNS —> [FACTORY](https://medium.com/geekculture/node-js-and-factory-pattern-ddabcfe6541c) <br>
-NODE —> DESIGN PATTERNS —> [STRATEGY](https://medium.com/@luiscelismx/implementing-strategy-pattern-node-js-8677537104ae) <br>
-NODE —> DESIGN PATTERNS —> [TRANSPORTER](https://huguinho.medium.com/design-pattern-strategy-com-node-js-ee6ab45798d7) <br> <br>
+⚙ NODE —> LIBRARY —> [MIGRATION](https://www.luiztools.com.br/post/tutorial-de-migrations-com-nodejs-e-sequelize/) <br> <br>
 
-NODE —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://medium.com/@diego_moura/domain-driven-design-linguagem-ubíqua-f052f5eb6b18) <br>
-NODE —> ARQUITETURA —> DDD —> [DOMÍNIO](https://speakerdeck.com/danielbdias/modelando-sua-aplicacao-node-dot-js-com-domain-driven-design) <br>
-NODE —> ARQUITETURA —> DDD —> [BOUNDED CONTEXT](https://pt.slideshare.net/DanielDias10/domain-driven-design-como-modelar-uma-aplicao-em-nodejs-com-ddd) <br>
-NODE —> ARQUITETURA —> DDD —> [MAP](https://pt.slideshare.net/DanielDias10/domain-driven-design-como-modelar-uma-aplicao-em-nodejs-com-ddd) <br>
-NODE —> ARQUITETURA —> DDD —> [MODELS](https://speakerdeck.com/danielbdias/modelando-sua-aplicacao-node-dot-js-com-domain-driven-design) <br> <br>
+⚙ NODE —> DESIGN PATTERNS —> [BUILDER](https://medium.com/zero-equals-false/builder-design-pattern-in-node-js-c942ac7354a9) <br> 
+⚙ NODE —> DESIGN PATTERNS —> [REPOSITORY](https://charlesodev.medium.com/aplicando-repository-pattern-com-nodejs-typescript-e-typeorm-e7d9c6253e31) <br>
+⚙ NODE —> DESIGN PATTERNS —> [MVC](https://blog.logrocket.com/building-structuring-node-js-mvc-application/) <br>
+⚙ NODE —> DESIGN PATTERNS —> [CQRS](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/) <br>
+⚙ NODE —> DESIGN PATTERNS —> [EVENT SOURCING](https://blog.risingstack.com/event-sourcing-with-examples-node-js-at-scale/) <br>
+⚙ NODE —> DESIGN PATTERNS —> [TDD](https://sergueymartinez.medium.com/tdd-bdd-in-javascript-world-node-mental-models-1-5-83d32d32623b) <br>
+⚙ NODE —> DESIGN PATTERNS —> [UNIT OF WORK](https://www.devmedia.com.br/unit-of-work-o-padrao-de-unidade-de-trabalho-net/25811) <br>
+⚙ NODE —> DESIGN PATTERNS —> [MEDIATOR](https://www.dofactory.com/javascript/design-patterns/mediator) <br>
+⚙ NODE —> DESIGN PATTERNS —> [FACADE](https://www.dofactory.com/javascript/design-patterns/facade) <br>
+⚙ NODE —> DESIGN PATTERNS —> [FACTORY](https://medium.com/geekculture/node-js-and-factory-pattern-ddabcfe6541c) <br>
+⚙ NODE —> DESIGN PATTERNS —> [STRATEGY](https://medium.com/@luiscelismx/implementing-strategy-pattern-node-js-8677537104ae) <br>
+⚙ NODE —> DESIGN PATTERNS —> [TRANSPORTER](https://huguinho.medium.com/design-pattern-strategy-com-node-js-ee6ab45798d7) <br> <br>
 
-NODE —> ARQUITETURA —> DDD —> [AGGREGATE](https://blog.betrybe.com/tecnologia/domain-driven-design/) <br>
-NODE —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://speakerdeck.com/danielbdias/modelando-sua-aplicacao-node-dot-js-com-domain-driven-design) <br> <br>
+⚙ NODE —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://medium.com/@diego_moura/domain-driven-design-linguagem-ubíqua-f052f5eb6b18) <br>
+⚙ NODE —> ARQUITETURA —> DDD —> [DOMÍNIO](https://speakerdeck.com/danielbdias/modelando-sua-aplicacao-node-dot-js-com-domain-driven-design) <br>
+⚙ NODE —> ARQUITETURA —> DDD —> [BOUNDED CONTEXT](https://pt.slideshare.net/DanielDias10/domain-driven-design-como-modelar-uma-aplicao-em-nodejs-com-ddd) <br>
+⚙ NODE —> ARQUITETURA —> DDD —> [MAP](https://pt.slideshare.net/DanielDias10/domain-driven-design-como-modelar-uma-aplicao-em-nodejs-com-ddd) <br>
+⚙ NODE —> ARQUITETURA —> DDD —> [MODELS](https://speakerdeck.com/danielbdias/modelando-sua-aplicacao-node-dot-js-com-domain-driven-design) <br> <br>
 
-NODE —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://signoz.io/blog/microservices-logging/) <br>
-NODE —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://www.oreilly.com/radar/modules-vs-microservices/) <br>
-NODE —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
-NODE —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
+⚙ NODE —> ARQUITETURA —> DDD —> [AGGREGATE](https://blog.betrybe.com/tecnologia/domain-driven-design/) <br>
+⚙ NODE —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://speakerdeck.com/danielbdias/modelando-sua-aplicacao-node-dot-js-com-domain-driven-design) <br> <br>
 
-## JAVA
+⚙ NODE —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://signoz.io/blog/microservices-logging/) <br>
+⚙ NODE —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://www.oreilly.com/radar/modules-vs-microservices/) <br>
+⚙ NODE —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
+⚙ NODE —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
 
-JAVA —> [CRUD](https://netbeans.apache.org/tutorials/nbm-crud_pt_BR.html) <br>
-JAVA —> [POO](https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/) <br>
+## 🧾 JAVA
 
-JAVA —> PRINCIPIOS —> [SOLID](https://www.treinaweb.com.br/blog/principios-solid-single-responsability-principle) <br>
-JAVA —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://awari.com.br/solid-kiss-dry-yagni/) <br>
-JAVA —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://guilherme-manzano.medium.com/guia-clean-code-da-teoria-à-prática-parte-2-2f16094171c6) <br> <br>
+⚙ JAVA —> [CRUD](https://netbeans.apache.org/tutorials/nbm-crud_pt_BR.html) <br>
+⚙ JAVA —> [POO](https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/) <br>
 
-JAVA —> [SPRINGBOOT](https://www.ibm.com/br-pt/topics/java-spring-boot) <br>
-JAVA —> [ALTA MATURIDADE REST](https://rivaildojunior.medium.com/modelo-de-maturidade-de-richardson-para-apis-rest-8845f93b288) <br>
-JAVA —> [Quarkus](https://www.redhat.com/pt-br/topics/cloud-native-apps/what-is-quarkus) <br> <br>
+⚙ JAVA —> PRINCIPIOS —> [SOLID](https://www.treinaweb.com.br/blog/principios-solid-single-responsability-principle) <br>
+⚙ JAVA —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://awari.com.br/solid-kiss-dry-yagni/) <br>
+⚙ JAVA —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://guilherme-manzano.medium.com/guia-clean-code-da-teoria-à-prática-parte-2-2f16094171c6) <br> <br>
 
-JAVA —> DESIGN PATTERNS —> [CQRS](https://www.baeldung.com/cqrs-event-sourcing-java) <br>
-JAVA —> DESIGN PATTERNS —> [BUILDER](https://www.digitalocean.com/community/tutorials/builder-design-pattern-in-java) <br>
-JAVA —> DESIGN PATTERNS —> [FACTORY](https://refactoring.guru/pt-br/design-patterns/factory-method/java/example) <br>
-JAVA —> DESIGN PATTERNS —> [REPOSITORY](https://renicius-pagotto.medium.com/entendendo-o-repository-pattern-fcdd0c36b63b) <br>
-JAVA —> DESIGN PATTERNS —> [MVC](https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm) <br>
-JAVA —> DESIGN PATTERNS —> [MEDIATOR](https://www.digitalocean.com/community/tutorials/mediator-design-pattern-java) <br>
-JAVA —> DESIGN PATTERNS —> [EVENT SOURCING](https://java-design-patterns.com/patterns/event-sourcing/) <br>
-JAVA —> DESIGN PATTERNS —> [TDD](https://www.infoq.com/articles/test-driven-design-java/) <br>
-JAVA —> DESIGN PATTERNS —> [FACADE](https://www.devmedia.com.br/como-implementar-pattern-facade-na-nova-plataforma-java-ee/32469) <br>
-JAVA —> DESIGN PATTERNS —> [STRATEGY](https://refactoring.guru/design-patterns/strategy/java/example) <br>
-JAVA —> DESIGN PATTERNS —> [TRANSPORTER](https://medium.com/xp-inc/desing-patterns-factory-method-a7496ae071aa) <br> <br>
+⚙ JAVA —> [SPRINGBOOT](https://www.ibm.com/br-pt/topics/java-spring-boot) <br>
+⚙ JAVA —> [ALTA MATURIDADE REST](https://rivaildojunior.medium.com/modelo-de-maturidade-de-richardson-para-apis-rest-8845f93b288) <br>
+⚙ JAVA —> [Quarkus](https://www.redhat.com/pt-br/topics/cloud-native-apps/what-is-quarkus) <br> <br>
 
-JAVA —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://medium.com/@diego_moura/domain-driven-design-linguagem-ubíqua-f052f5eb6b18) <br>
-JAVA —> ARQUITETURA —> DDD —> [DOMÍNIO](https://medium.com/beelabacademy/domain-driven-design-vs-arquitetura-em-camadas-d01455698ec5) <br>
-JAVA —> ARQUITETURA —> DDD —> [BOUNDED CONTEXT](https://www.eduardopires.net.br/2016/03/ddd-bounded-context/) <br>
-JAVA —> ARQUITETURA —> DDD —> [MAP](https://medium.com/beelabacademy/domain-driven-design-vs-arquitetura-em-camadas-d01455698ec5) <br>
-JAVA —> ARQUITETURA —> DDD —> [MODELS](https://www.zup.com.br/blog/domain-driven-design-ddd) <br>
-JAVA —> ARQUITETURA —> DDD —> [AGGREGATE](https://martinfowler.com/bliki/DDD_Aggregate.html) <br>
-JAVA —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://medium.com/@carlosbueno.kinder/o-que-é-domain-services-como-usar-f8a31410b165) <br>
-JAVA —> ARQUITETURA —> DDD —> [REPOSITORIES](https://www.linkedin.com/advice/0/how-do-you-balance-performance-abstraction) <br> <br>
+⚙ JAVA —> DESIGN PATTERNS —> [CQRS](https://www.baeldung.com/cqrs-event-sourcing-java) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [BUILDER](https://www.digitalocean.com/community/tutorials/builder-design-pattern-in-java) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [FACTORY](https://refactoring.guru/pt-br/design-patterns/factory-method/java/example) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [REPOSITORY](https://renicius-pagotto.medium.com/entendendo-o-repository-pattern-fcdd0c36b63b) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [MVC](https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [MEDIATOR](https://www.digitalocean.com/community/tutorials/mediator-design-pattern-java) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [EVENT SOURCING](https://java-design-patterns.com/patterns/event-sourcing/) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [TDD](https://www.infoq.com/articles/test-driven-design-java/) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [FACADE](https://www.devmedia.com.br/como-implementar-pattern-facade-na-nova-plataforma-java-ee/32469) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [STRATEGY](https://refactoring.guru/design-patterns/strategy/java/example) <br>
+⚙ JAVA —> DESIGN PATTERNS —> [TRANSPORTER](https://medium.com/xp-inc/desing-patterns-factory-method-a7496ae071aa) <br> <br>
 
-JAVA —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://signoz.io/blog/microservices-logging/) <br>
-JAVA —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://stackoverflow.com/questions/53497953/difference-between-a-module-microservice) <br>
-JAVA —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
-JAVA —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
+⚙ JAVA —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://medium.com/@diego_moura/domain-driven-design-linguagem-ubíqua-f052f5eb6b18) <br>
+⚙ JAVA —> ARQUITETURA —> DDD —> [DOMÍNIO](https://medium.com/beelabacademy/domain-driven-design-vs-arquitetura-em-camadas-d01455698ec5) <br>
+⚙ JAVA —> ARQUITETURA —> DDD —> [BOUNDED CONTEXT](https://www.eduardopires.net.br/2016/03/ddd-bounded-context/) <br>
+⚙ JAVA —> ARQUITETURA —> DDD —> [MAP](https://medium.com/beelabacademy/domain-driven-design-vs-arquitetura-em-camadas-d01455698ec5) <br>
+⚙ JAVA —> ARQUITETURA —> DDD —> [MODELS](https://www.zup.com.br/blog/domain-driven-design-ddd) <br>
+⚙ JAVA —> ARQUITETURA —> DDD —> [AGGREGATE](https://martinfowler.com/bliki/DDD_Aggregate.html) <br>
+⚙ JAVA —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://medium.com/@carlosbueno.kinder/o-que-é-domain-services-como-usar-f8a31410b165) <br>
+⚙ JAVA —> ARQUITETURA —> DDD —> [REPOSITORIES](https://www.linkedin.com/advice/0/how-do-you-balance-performance-abstraction) <br> <br>
 
-JAVA —> LIBRARY —> ORM —> [HIBERNATE](https://www.tutorialspoint.com/hibernate/orm_overview.htm) <br>
-JAVA —> LIBRARY —> ORM —> [JPA](https://www.infoworld.com/article/3379043/what-is-jpa-introduction-to-the-java-persistence-api.html) <br>
-JAVA —> LIBRARY —> ORM —> [EBEAN](https://www.baeldung.com/ebean-orm) <br>
+⚙ JAVA —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://signoz.io/blog/microservices-logging/) <br>
+⚙ JAVA —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://stackoverflow.com/questions/53497953/difference-between-a-module-microservice) <br>
+⚙ JAVA —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
+⚙ JAVA —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
 
-JAVA —> LIBRARY —> [MIGRATION](https://www.oreilly.com/library/view/java-9-modularity/9781491954157/ch10.html) <br> <br>
+⚙ JAVA —> LIBRARY —> ORM —> [HIBERNATE](https://www.tutorialspoint.com/hibernate/orm_overview.htm) <br>
+⚙ JAVA —> LIBRARY —> ORM —> [JPA](https://www.infoworld.com/article/3379043/what-is-jpa-introduction-to-the-java-persistence-api.html) <br>
+⚙ JAVA —> LIBRARY —> ORM —> [EBEAN](https://www.baeldung.com/ebean-orm) <br>
 
-## GOLANG
+⚙ JAVA —> LIBRARY —> [MIGRATION](https://www.oreilly.com/library/view/java-9-modularity/9781491954157/ch10.html) <br> <br>
 
-GOLANG —> PRINCIPIOS —> [SOLID](https://andreleoni.medium.com/princípio-aberto-fechado-do-solid-com-golang-1e5b2d38b636) <br>
-GOLANG —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://dev.to/urielsouza29/kiss-yagni-dry-tres-principios-que-todo-desenvolvedor-deveria-conhecer-47gg) <br>
-GOLANG —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://www.hostgator.com.br/blog/clean-code-o-que-e/) <br>
+## 🧾 GOLANG
 
-GOLANG —> DESIGN PATTERNS —> [CQRS](https://medium.com/@michalkowal567/creating-a-dead-simple-and-reusable-cqrs-golang-package-f48ade506b86) <br>
-GOLANG —> DESIGN PATTERNS —> [TDD](https://subscription.packtpub.com/book/programming/9781786466204/1/ch01lvl1sec21/testing-and-tdd) <br>
-GOLANG —> DESIGN PATTERNS —> [BUILDER](https://refactoring.guru/design-patterns/builder/go/example) <br>
-GOLANG —> DESIGN PATTERNS —> [FACADE](https://refactoring.guru/design-patterns/facade/go/example) <br>
-GOLANG —> DESIGN PATTERNS —> [FACTORY](https://refactoring.guru/design-patterns/factory-method/go/example) <br>
-GOLANG —> DESIGN PATTERNS —> [EVENT SOURCING](https://shijuvar.medium.com/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa) <br>
-GOLANG —> DESIGN PATTERNS —> [REPOSITORY](https://dakaii.medium.com/repository-pattern-in-golang-d22d3fa76d91) <br>
-GOLANG —> DESIGN PATTERNS —> [MVC](https://www.calhoun.io/using-mvc-to-structure-go-web-applications/) <br>
-GOLANG —> DESIGN PATTERNS —> [STRATEGY](https://medium.com/@sonasingh46/strategy-pattern-in-golang-cc8747d4dc25) <br>
-GOLANG —> DESIGN PATTERNS —> [TRANSPORTER](https://vinnynordi.com/padrões-de-design-design-patterns-em-go-padrão-de-criação-builder-c22d507ed7d) <br>
-GOLANG —> DESIGN PATTERNS —> [MEDIATOR](https://refactoring.guru/design-patterns/mediator/go/example) <br> <br>
+⚙ GOLANG —> PRINCIPIOS —> [SOLID](https://andreleoni.medium.com/princípio-aberto-fechado-do-solid-com-golang-1e5b2d38b636) <br>
+⚙ GOLANG —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://dev.to/urielsouza29/kiss-yagni-dry-tres-principios-que-todo-desenvolvedor-deveria-conhecer-47gg) <br>
+⚙GOLANG —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://www.hostgator.com.br/blog/clean-code-o-que-e/) <br>
 
-GOLANG —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://medium.com/@diego_moura/domain-driven-design-linguagem-ubíqua-f052f5eb6b18) <br>
-GOLANG —> ARQUITETURA —> DDD —> [DOMÍNIO](https://medium.com/beelabacademy/domain-driven-design-vs-arquitetura-em-camadas-d01455698ec5) <br>
-GOLANG —> ARQUITETURA —> DDD —> [MODELS](https://www.zup.com.br/blog/domain-driven-design-ddd) <br>
-GOLANG —> ARQUITETURA —> DDD —> [AGGREGATE](https://martinfowler.com/bliki/DDD_Aggregate.html) <br>
-GOLANG —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://medium.com/@carlosbueno.kinder/o-que-é-domain-services-como-usar-f8a31410b165) <br> <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [CQRS](https://medium.com/@michalkowal567/creating-a-dead-simple-and-reusable-cqrs-golang-package-f48ade506b86) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [TDD](https://subscription.packtpub.com/book/programming/9781786466204/1/ch01lvl1sec21/testing-and-tdd) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [BUILDER](https://refactoring.guru/design-patterns/builder/go/example) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [FACADE](https://refactoring.guru/design-patterns/facade/go/example) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [FACTORY](https://refactoring.guru/design-patterns/factory-method/go/example) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [EVENT SOURCING](https://shijuvar.medium.com/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [REPOSITORY](https://dakaii.medium.com/repository-pattern-in-golang-d22d3fa76d91) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [MVC](https://www.calhoun.io/using-mvc-to-structure-go-web-applications/) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [STRATEGY](https://medium.com/@sonasingh46/strategy-pattern-in-golang-cc8747d4dc25) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [TRANSPORTER](https://vinnynordi.com/padrões-de-design-design-patterns-em-go-padrão-de-criação-builder-c22d507ed7d) <br>
+⚙ GOLANG —> DESIGN PATTERNS —> [MEDIATOR](https://refactoring.guru/design-patterns/mediator/go/example) <br> <br>
 
-GOLANG —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://eltonminetto.dev/post/2021-02-06-microservices-gokit/) <br>
-GOLANG —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://www.linkedin.com/pulse/implementando-um-micro-serviço-em-go-lang-ambiente-spring-alves/?originalSubdomain=pt) <br>
-GOLANG —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
-GOLANG —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
+⚙ GOLANG —> ARQUITETURA —> DDD —> [LINGUAGEM OBÍQUA](https://medium.com/@diego_moura/domain-driven-design-linguagem-ubíqua-f052f5eb6b18) <br>
+⚙ GOLANG —> ARQUITETURA —> DDD —> [DOMÍNIO](https://medium.com/beelabacademy/domain-driven-design-vs-arquitetura-em-camadas-d01455698ec5) <br>
+⚙ GOLANG —> ARQUITETURA —> DDD —> [MODELS](https://www.zup.com.br/blog/domain-driven-design-ddd) <br>
+⚙ GOLANG —> ARQUITETURA —> DDD —> [AGGREGATE](https://martinfowler.com/bliki/DDD_Aggregate.html) <br>
+⚙ GOLANG —> ARQUITETURA —> DDD —> [DOMAIN SERVICES](https://medium.com/@carlosbueno.kinder/o-que-é-domain-services-como-usar-f8a31410b165) <br> <br>
 
-GOLANG —> LIBRARY —> ORM —> [SEQUELIZE](https://sequelize.org/) <br>
-GOLANG —> LIBRARY —> ORM —> [TYPEORM](https://tutorialedge.net/golang/golang-orm-tutorial/) <br>
-GOLANG —> LIBRARY —> ORM —> [MONGOOSE](https://www.mongodb.com/blog/post/quick-start-golang--mongodb--modeling-documents-with-go-data-structures) <br>
-GOLANG —> LIBRARY —> ORM —> [PRISMA](https://goprisma.org/) <br> <br>
+⚙ GOLANG —> ARQUITETURA —> MICROSERVIÇOS —> [LOGGING](https://eltonminetto.dev/post/2021-02-06-microservices-gokit/) <br>
+⚙ GOLANG —> ARQUITETURA —> MICROSERVIÇOS —> [MODULE](https://www.linkedin.com/pulse/implementando-um-micro-serviço-em-go-lang-ambiente-spring-alves/?originalSubdomain=pt) <br>
+⚙ GOLANG —> ARQUITETURA —> MICROSERVIÇOS —> [BFF](https://medium.com/digitalproductsdev/arquitetura-bff-back-end-for-front-end-13e2cbfbcda2) <br>
+⚙ GOLANG —> ARQUITETURA —> MICROSERVIÇOS —> [AUTOSCALE](https://medium.com/@dcruzb/microservices-architecture-and-autoscaling-3939f080793a) <br> <br>
 
-## PYTHON
+⚙ GOLANG —> LIBRARY —> ORM —> [SEQUELIZE](https://sequelize.org/) <br>
+⚙ GOLANG —> LIBRARY —> ORM —> [TYPEORM](https://tutorialedge.net/golang/golang-orm-tutorial/) <br>
+⚙ GOLANG —> LIBRARY —> ORM —> [MONGOOSE](https://www.mongodb.com/blog/post/quick-start-golang--mongodb--modeling-documents-with-go-data-structures) <br>
+⚙ GOLANG —> LIBRARY —> ORM —> [PRISMA](https://goprisma.org/) <br> <br>
 
-PYTHON —> [CRUD](https://www.hashtagtreinamentos.com/crud-em-python) <br>
-PYTHON —> [POO](https://pythonacademy.com.br/blog/introducao-a-programacao-orientada-a-objetos-no-python) <br> <br>
+## 🧾 PYTHON
 
-PYTHON —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://dev.to/urielsouza29/kiss-yagni-dry-tres-principios-que-todo-desenvolvedor-deveria-conhecer-47gg) <br>
-PYTHON —> PRINCIPIOS —> [SOLID](https://medium.com/@viniciuschan/solid-com-python-entendendo-os-5-princípios-na-prática-f2af330b7751) <br>
-PYTHON —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://www.hostgator.com.br/blog/clean-code-o-que-e/) <br>
+⚙ PYTHON —> [CRUD](https://www.hashtagtreinamentos.com/crud-em-python) <br>
+⚙ PYTHON —> [POO](https://pythonacademy.com.br/blog/introducao-a-programacao-orientada-a-objetos-no-python) <br> <br>
 
-PYTHON —> DESIGN PATTERNS —> [MVC](https://www.giacomodebidda.com/posts/mvc-pattern-in-python-introduction-and-basicmodel/) <br>
-PYTHON —> DESIGN PATTERNS —> [TDD](https://python.plainenglish.io/test-driven-development-in-python-49fa22cb95d4) <br>
-PYTHON —> DESIGN PATTERNS —> [BUILDER](https://refactoring.guru/design-patterns/builder/python/example) <br>
-PYTHON —> DESIGN PATTERNS —> [FACTORY](https://refactoring.guru/design-patterns/factory-method/python/example) <br>
-PYTHON —> DESIGN PATTERNS —> [FACADE](https://refactoring.guru/design-patterns/facade/python/example) <br>
-PYTHON —> DESIGN PATTERNS —> [CQRS](https://medium.com/swlh/command-query-segregation-implemented-with-python-4c7a8f733c3) <br>
-PYTHON —> DESIGN PATTERNS —> [EVENT SOURCING](https://medium.com/ssense-tech/event-sourcing-part-ii-implementing-an-end-to-end-solution-68b7dbefe89) <br>
-PYTHON —> DESIGN PATTERNS —> [REPOSITORY](https://python.plainenglish.io/design-patterns-in-python-repository-pattern-1c2e5070a01c) <br>
-PYTHON —> DESIGN PATTERNS —> [STRATEGY](https://refactoring.guru/design-patterns/strategy/python/example) <br>
-PYTHON —> DESIGN PATTERNS —> [TRANSPORTER](https://medium.com/nerd-for-tech/strategy-design-pattern-python-896f2d38012d) <br>
-PYTHON —> DESIGN PATTERNS —> [MEDIATOR](https://refactoring.guru/design-patterns/mediator/python/example) <br> <br>
+⚙ PYTHON —> PRINCIPIOS —> [DRY,YAGNI,KISS](https://dev.to/urielsouza29/kiss-yagni-dry-tres-principios-que-todo-desenvolvedor-deveria-conhecer-47gg) <br>
+⚙ PYTHON —> PRINCIPIOS —> [SOLID](https://medium.com/@viniciuschan/solid-com-python-entendendo-os-5-princípios-na-prática-f2af330b7751) <br>
+⚙ PYTHON —> PRINCIPIOS —> [CLEAN CODE (7 top)](https://www.hostgator.com.br/blog/clean-code-o-que-e/) <br>
 
-PYTHON —> LIBRARY —> ORM —> [SQL ALCHEMY](https://www.treinaweb.com.br/blog/o-que-e-o-sqlalchemy) <br>
-PYTHON —> LIBRARY —> ORM —> [PEEWEE](https://imasters.com.br/back-end/peewee-um-orm-python-minimalista) <br>
-PYTHON —> LIBRARY —> ORM —> [DJANGO](https://www.scaler.com/topics/django/django-orm/) <br> <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [MVC](https://www.giacomodebidda.com/posts/mvc-pattern-in-python-introduction-and-basicmodel/) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [TDD](https://python.plainenglish.io/test-driven-development-in-python-49fa22cb95d4) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [BUILDER](https://refactoring.guru/design-patterns/builder/python/example) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [FACTORY](https://refactoring.guru/design-patterns/factory-method/python/example) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [FACADE](https://refactoring.guru/design-patterns/facade/python/example) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [CQRS](https://medium.com/swlh/command-query-segregation-implemented-with-python-4c7a8f733c3) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [EVENT SOURCING](https://medium.com/ssense-tech/event-sourcing-part-ii-implementing-an-end-to-end-solution-68b7dbefe89) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [REPOSITORY](https://python.plainenglish.io/design-patterns-in-python-repository-pattern-1c2e5070a01c) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [STRATEGY](https://refactoring.guru/design-patterns/strategy/python/example) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [TRANSPORTER](https://medium.com/nerd-for-tech/strategy-design-pattern-python-896f2d38012d) <br>
+⚙ PYTHON —> DESIGN PATTERNS —> [MEDIATOR](https://refactoring.guru/design-patterns/mediator/python/example) <br> <br>
 
-## React/Vuejs
+⚙ PYTHON —> LIBRARY —> ORM —> [SQL ALCHEMY](https://www.treinaweb.com.br/blog/o-que-e-o-sqlalchemy) <br>
+⚙ PYTHON —> LIBRARY —> ORM —> [PEEWEE](https://imasters.com.br/back-end/peewee-um-orm-python-minimalista) <br>
+⚙ PYTHON —> LIBRARY —> ORM —> [DJANGO](https://www.scaler.com/topics/django/django-orm/) <br> <br>
 
-React/Vuejs —> [Material UI](https://blog.rocketseat.com.br/react-material-ui/) <br>
-React/Vuejs —> [Context API](https://markus.oberlehner.net/blog/context-and-provider-pattern-with-the-vue-3-composition-api/) <br>
-React/Vuejs —> REDUX —> [RECOIL](https://blog.logrocket.com/refactoring-redux-app-to-use-recoil/) <br>
-React/Vuejs —> NEXT —> [NUXT](https://www.vuemastery.com/blog/nuxt-vs-next-how-do-they-compare/) <br>
-React/Vuejs —> [GATSBY](https://kontent.ai/blog/react-or-vue-gatsby-or-gridsome/) <br>
-React/Vuejs —> [ROUTER](https://router.vuejs.org/guide/) <br>
-React/Vuejs —> [STATE MANAGEMENT](https://vuejs.org/guide/scaling-up/state-management.html) <br>
-React/Vuejs —> UNIT TEST —> [JEST/CYPRESS](https://www.freecodecamp.org/news/test-a-react-app-with-jest-testing-library-and-cypress/) <br>
-React/Vuejs —> [GRAPHQL](https://the-guild.dev/graphql/codegen/docs/guides/react-vue) <br>
-React/Vuejs —> [STYLED COMPONENTS](https://www.smashingmagazine.com/2020/07/styled-components-react/) <br>
-React/Vuejs —> [SSR](https://vuejs.org/guide/scaling-up/ssr.html) <br>
-React/Vuejs —> [SSG](https://blog.casadodesenvolvedor.com.br/renderizacao-web/) <br> <br>
+## 🧾 React/Vuejs
+
+⚙ React/Vuejs —> [Material UI](https://blog.rocketseat.com.br/react-material-ui/) <br>
+⚙ React/Vuejs —> [Context API](https://markus.oberlehner.net/blog/context-and-provider-pattern-with-the-vue-3-composition-api/) <br>
+⚙ React/Vuejs —> REDUX —> [RECOIL](https://blog.logrocket.com/refactoring-redux-app-to-use-recoil/) <br>
+⚙ React/Vuejs —> NEXT —> [NUXT](https://www.vuemastery.com/blog/nuxt-vs-next-how-do-they-compare/) <br>
+⚙ React/Vuejs —> [GATSBY](https://kontent.ai/blog/react-or-vue-gatsby-or-gridsome/) <br>
+⚙ React/Vuejs —> [ROUTER](https://router.vuejs.org/guide/) <br>
+⚙ React/Vuejs —> [STATE MANAGEMENT](https://vuejs.org/guide/scaling-up/state-management.html) <br>
+⚙ React/Vuejs —> UNIT TEST —> [JEST/CYPRESS](https://www.freecodecamp.org/news/test-a-react-app-with-jest-testing-library-and-cypress/) <br>
+⚙ React/Vuejs —> [GRAPHQL](https://the-guild.dev/graphql/codegen/docs/guides/react-vue) <br>
+⚙ React/Vuejs —> [STYLED COMPONENTS](https://www.smashingmagazine.com/2020/07/styled-components-react/) <br>
+⚙ React/Vuejs —> [SSR](https://vuejs.org/guide/scaling-up/ssr.html) <br>
+⚙ React/Vuejs —> [SSG](https://blog.casadodesenvolvedor.com.br/renderizacao-web/) <br> <br>
  
-## ARQUITETURA
+## 🧾 ARQUITETURA
 
-Frontend —> ARQUITETURA —> [SOLID](https://dev.to/guilhermeafonsomb/uma-experiencia-com-arquitetura-e-principios-solid-no-front-end-4jk8) <br>
-Frontend —> ARQUITETURA —> [Clean Code](https://lab.vortx.com.br/clean-architecture-front-end-e-o-caos/) <br>
-Frontend —> ARQUITETURA —> [Microfrontend](https://www.treinaweb.com.br/blog/micro-front-end-microservicos-no-seu-navegador) <br>
-Frontend —> ARQUITETURA —> [Imutabilidade](https://lume.ufrgs.br/bitstream/handle/10183/231869/001133554.pdf?sequence=1) <br>
-Frontend —> ARQUITETURA —> [Separation of Concerns](https://www.devmedia.com.br/amadurecendo-com-separation-of-concerns/18699) <br> <br>
+⚙ Frontend —> ARQUITETURA —> [SOLID](https://dev.to/guilhermeafonsomb/uma-experiencia-com-arquitetura-e-principios-solid-no-front-end-4jk8) <br>
+⚙ Frontend —> ARQUITETURA —> [Clean Code](https://lab.vortx.com.br/clean-architecture-front-end-e-o-caos/) <br>
+⚙ Frontend —> ARQUITETURA —> [Microfrontend](https://www.treinaweb.com.br/blog/micro-front-end-microservicos-no-seu-navegador) <br>
+⚙ Frontend —> ARQUITETURA —> [Imutabilidade](https://lume.ufrgs.br/bitstream/handle/10183/231869/001133554.pdf?sequence=1) <br>
+⚙ Frontend —> ARQUITETURA —> [Separation of Concerns](https://www.devmedia.com.br/amadurecendo-com-separation-of-concerns/18699) <br> <br>
 
-## VUEJS
+## 🧾 VUEJS
 
-VUEJS —> [APollo](https://www.apollographql.com/blog/frontend/getting-started-with-vue-apollo/) <br>
-VUEJS —> [Tailwind](https://v2.tailwindcss.com/docs/guides/vue-3-vite) <br>
-VUEJS —> [REDUX —> RECOIL](https://blog.logrocket.com/refactoring-redux-app-to-use-recoil/) <br>
-VUEJS —> [GATSBY](https://www.tekkiwebsolutions.com/blog/vuejs-vs-gatsbyjs/) <br>
-VUEJS —> [ROUTER](https://router.vuejs.org/) <br>
-VUEJS —> [STATE MANAGEMENT —> Pinia](https://pinia.vuejs.org/) <br>
-VUEJS —> [UNIT TEST —> JEST/CYPRESS](https://docs.cypress.io/guides/component-testing/vue/overview) <br>
-VUEJS —> [GRAPHQL](https://www.howtographql.com/vue-apollo/1-getting-started/) <br>
-VUEJS —> [STYLED COMPONENTS](https://fsenaweb.medium.com/construindo-sua-aplicação-com-styled-components-no-vue-js-3e550449ae0e) <br>
-VUEJS —> [SSR —> Quasar/Nuxt](https://stackshare.io/stackups/nuxt-vs-quasar-framework) <br>
-VUEJS —> [SSG —> [Vuepress](https://vuejsbrasil.org/conheca-o-vuepress/) <br> <br>
+⚙ VUEJS —> [APollo](https://www.apollographql.com/blog/frontend/getting-started-with-vue-apollo/) <br>
+⚙ VUEJS —> [Tailwind](https://v2.tailwindcss.com/docs/guides/vue-3-vite) <br>
+⚙ VUEJS —> [REDUX —> RECOIL](https://blog.logrocket.com/refactoring-redux-app-to-use-recoil/) <br>
+⚙ VUEJS —> [GATSBY](https://www.tekkiwebsolutions.com/blog/vuejs-vs-gatsbyjs/) <br>
+⚙ VUEJS —> [ROUTER](https://router.vuejs.org/) <br>
+⚙ VUEJS —> [STATE MANAGEMENT —> Pinia](https://pinia.vuejs.org/) <br>
+⚙ VUEJS —> [UNIT TEST —> JEST/CYPRESS](https://docs.cypress.io/guides/component-testing/vue/overview) <br>
+⚙ VUEJS —> [GRAPHQL](https://www.howtographql.com/vue-apollo/1-getting-started/) <br>
+⚙ VUEJS —> [STYLED COMPONENTS](https://fsenaweb.medium.com/construindo-sua-aplicação-com-styled-components-no-vue-js-3e550449ae0e) <br>
+⚙ VUEJS —> [SSR —> Quasar/Nuxt](https://stackshare.io/stackups/nuxt-vs-quasar-framework) <br>
+⚙ VUEJS —> [SSG —> [Vuepress](https://vuejsbrasil.org/conheca-o-vuepress/) <br> <br>
 
-## TRÍADE
+## 🧾 TRÍADE
 
-JS —> [VARIÁVEIS](https://www.devmedia.com.br/javascript-variaveis-e-constantes/41012) <br>
-JS —> [DATATYPES](https://www.w3schools.com/js/js_datatypes.asp) <br>
-JS —> [TYPE CASTING](https://www.w3schools.com/js/js_type_conversion.asp) <br>
-JS —> [STRUCTURES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) <br>
-JS —> [EQUALITY COMPARISONS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) <br>
-JS —> [LOOPS AND INTERACTIONS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) <br>
-JS —> [CONTROL FLOW](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow) <br>
-JS —> [FUNCTIONS](https://www.w3schools.com/js/js_functions.asp) <br>
-JS —> [STRICT MODE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) <br>
-JS —> [ASYNCHRONOUS JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) <br>
-JS —> [WORKING WITH APIS](https://www.geeksforgeeks.org/working-with-apis-in-javascript/) <br>
-JS —> [CLASSES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) <br>
-JS —> [MODULES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) <br> <br>
+⚙ JS —> [VARIÁVEIS](https://www.devmedia.com.br/javascript-variaveis-e-constantes/41012) <br>
+⚙ JS —> [DATATYPES](https://www.w3schools.com/js/js_datatypes.asp) <br>
+⚙ JS —> [TYPE CASTING](https://www.w3schools.com/js/js_type_conversion.asp) <br>
+⚙ JS —> [STRUCTURES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) <br>
+⚙ JS —> [EQUALITY COMPARISONS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) <br>
+⚙ JS —> [LOOPS AND INTERACTIONS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) <br>
+⚙ JS —> [CONTROL FLOW](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow) <br>
+⚙ JS —> [FUNCTIONS](https://www.w3schools.com/js/js_functions.asp) <br>
+⚙ JS —> [STRICT MODE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) <br>
+⚙ JS —> [ASYNCHRONOUS JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) <br>
+⚙ JS —> [WORKING WITH APIS](https://www.geeksforgeeks.org/working-with-apis-in-javascript/) <br>
+⚙ JS —> [CLASSES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) <br>
+⚙ JS —> [MODULES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) <br> <br>
 
-## FLUTTER
+## 🧾 FLUTTER
 
-FLUTTER —> [DART](https://www.devmedia.com.br/guia/flutter/40713) <br> <br>
+⚙ FLUTTER —> [DART](https://www.devmedia.com.br/guia/flutter/40713) <br> <br>
 
-FLUTTER —> Widgets —> [Inherited](https://flutterbyexample.com/lesson/inherited-widgets) <br>
-FLUTTER —> Widgets —> [Stateless](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html) <br>
-FLUTTER —> Widgets —> [Stateful](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html) <br>
-FLUTTER —> Widgets —> [Styled](https://www.scaler.com/topics/styling-flutter-widgets/) <br>
-FLUTTER —> Widgets —> [Material](https://docs.flutter.dev/ui/widgets/material) <br> 
-FLUTTER —> Widgets —> [Cupertino](https://docs.flutter.dev/ui/widgets/cupertino) <br> <br>
+⚙ FLUTTER —> Widgets —> [Inherited](https://flutterbyexample.com/lesson/inherited-widgets) <br>
+⚙ FLUTTER —> Widgets —> [Stateless](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html) <br>
+⚙ FLUTTER —> Widgets —> [Stateful](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html) <br>
+⚙ FLUTTER —> Widgets —> [Styled](https://www.scaler.com/topics/styling-flutter-widgets/) <br>
+⚙ FLUTTER —> Widgets —> [Material](https://docs.flutter.dev/ui/widgets/material) <br> 
+⚙ FLUTTER —> Widgets —> [Cupertino](https://docs.flutter.dev/ui/widgets/cupertino) <br> <br>
 
-FLUTTER —> [Flutter CLI](https://docs.flutter.dev/reference/flutter-cli?gclid=CjwKCAjwseSoBhBXEiwA9iZtxo0HkKytxmUWmM99c3S7XGCOtHcI9gRATp2edeU_XYwexPE121s1cRoCCZAQAvD_BwE&gclsrc=aw.ds) <br> <br>
+⚙ FLUTTER —> [Flutter CLI](https://docs.flutter.dev/reference/flutter-cli?gclid=CjwKCAjwseSoBhBXEiwA9iZtxo0HkKytxmUWmM99c3S7XGCOtHcI9gRATp2edeU_XYwexPE121s1cRoCCZAQAvD_BwE&gclsrc=aw.ds) <br> <br>
 
-FLUTTER —> [FVM](https://blog.flutterando.com.br/é-do-brasil-fvm-uma-forma-simples-de-gerenciar-as-versões-do-flutter-6e0999ce8ad9) <br> <br>
+⚙ FLUTTER —> [FVM](https://blog.flutterando.com.br/é-do-brasil-fvm-uma-forma-simples-de-gerenciar-as-versões-do-flutter-6e0999ce8ad9) <br> <br>
 
-FLUTTER —> Design Principles —> [MVVM](https://www.appventurez.com/blog/mvvm-architecture) <br>
-FLUTTER —> Design Principles —> [MVC](https://medium.com/follow-flutter/flutter-mvc-at-last-275a0dc1e730) <br>
-FLUTTER —> Design Principles —> [Clean Architecture](https://medium.com/@samra.sajjad0001/flutter-clean-architecture-5de5e9b8d093) <br>
-FLUTTER —> Design Principles —> [Injeção de Dependência](https://medium.com/popcodemobile/injeção-de-dependências-no-flutter-152704d4064d) <br>
-FLUTTER —> Design Principles —> [Design Patterns](https://medium.com/flutter-community/flutter-design-patterns-0-introduction-5e88cfff6792) <br>
-FLUTTER —> Design Principles —> [SOLID](https://medium.com/nerd-for-tech/solid-principles-in-a-flutter-32eaf7218476) <br>
-FLUTTER —> Design Principles —> [OPP](https://www.scaler.com/topics/flutter-themes/) <br>
+⚙ FLUTTER —> Design Principles —> [MVVM](https://www.appventurez.com/blog/mvvm-architecture) <br>
+⚙ FLUTTER —> Design Principles —> [MVC](https://medium.com/follow-flutter/flutter-mvc-at-last-275a0dc1e730) <br>
+⚙ FLUTTER —> Design Principles —> [Clean Architecture](https://medium.com/@samra.sajjad0001/flutter-clean-architecture-5de5e9b8d093) <br>
+⚙ FLUTTER —> Design Principles —> [Injeção de Dependência](https://medium.com/popcodemobile/injeção-de-dependências-no-flutter-152704d4064d) <br>
+⚙ FLUTTER —> Design Principles —> [Design Patterns](https://medium.com/flutter-community/flutter-design-patterns-0-introduction-5e88cfff6792) <br>
+⚙ FLUTTER —> Design Principles —> [SOLID](https://medium.com/nerd-for-tech/solid-principles-in-a-flutter-32eaf7218476) <br>
+⚙ FLUTTER —> Design Principles —> [OPP](https://www.scaler.com/topics/flutter-themes/) <br>
 
-FLUTTER —> Package Manager —> [npm](https://docs.flutter.dev/packages-and-plugins/using-packages) <br>
-FLUTTER —> Package Manager —> [dart pub](https://dart.dev/tools/pub/cmd) <br>
-FLUTTER —> Package Manager —> [flutter pub](https://xeladu.medium.com/how-to-install-packages-in-your-flutter-app-e7f7e62711ee) <br> <br>
+⚙ FLUTTER —> Package Manager —> [npm](https://docs.flutter.dev/packages-and-plugins/using-packages) <br>
+⚙ FLUTTER —> Package Manager —> [dart pub](https://dart.dev/tools/pub/cmd) <br>
+⚙ FLUTTER —> Package Manager —> [flutter pub](https://xeladu.medium.com/how-to-install-packages-in-your-flutter-app-e7f7e62711ee) <br> <br>
 
-FLUTTER —> Database —> [Firebase](https://firebase.flutter.dev/docs/database/usage/?gclid=CjwKCAjwseSoBhBXEiwA9iZtxu-jw0Ldlr8gdvaYn8fYfcLzIDPm1CEH2TuxqvzC-KjIwhxpzOPBQhoComkQAvD_BwE&gclsrc=aw.ds) <br>
-FLUTTER —> Database —> [SQLite](https://docs.flutter.dev/cookbook/persistence/sqlite) <br> <br>
+⚙ FLUTTER —> Database —> [Firebase](https://firebase.flutter.dev/docs/database/usage/?gclid=CjwKCAjwseSoBhBXEiwA9iZtxu-jw0Ldlr8gdvaYn8fYfcLzIDPm1CEH2TuxqvzC-KjIwhxpzOPBQhoComkQAvD_BwE&gclsrc=aw.ds) <br>
+⚙ FLUTTER —> Database —> [SQLite](https://docs.flutter.dev/cookbook/persistence/sqlite) <br> <br>
 
-FLUTTER —> [Redux](https://blog.logrocket.com/flutter-redux-complete-tutorial-with-examples/) <br> <br>
+⚙ FLUTTER —> [Redux](https://blog.logrocket.com/flutter-redux-complete-tutorial-with-examples/) <br> <br>
  
-FLUTTER —> Avançado —> [Lambdas](https://aws.amazon.com/pt/pm/lambda/?trk=56f58804-91cd-4af4-98d4-afe277a57fd3&sc_channel=ps&ef_id=CjwKCAjwseSoBhBXEiwA9iZtxh2QVyAxBhAoV-ZtULtXgT1TwCl1NM6dz787A00ljVQVJdjpwsLURxoCBuwQAvD_BwE:G:s&s_kwcid=AL!4422!3!651510591825!p!!g!!lambda!19828231347!148480170393) <br> 
-FLUTTER —> Avançado —> [Isolates](https://medium.com/evoluum/fundamentos-de-dart-flutter-e-sua-natureza-assíncrona-parte-1-isolates-62ad32da28f9) <br>
-FLUTTER —> Avançado —> [Async/wait](https://www.treinaweb.com.br/blog/como-funciona-o-async-await-e-future-no-flutter) <br> <br>
+⚙ FLUTTER —> Avançado —> [Lambdas](https://aws.amazon.com/pt/pm/lambda/?trk=56f58804-91cd-4af4-98d4-afe277a57fd3&sc_channel=ps&ef_id=CjwKCAjwseSoBhBXEiwA9iZtxh2QVyAxBhAoV-ZtULtXgT1TwCl1NM6dz787A00ljVQVJdjpwsLURxoCBuwQAvD_BwE:G:s&s_kwcid=AL!4422!3!651510591825!p!!g!!lambda!19828231347!148480170393) <br> 
+⚙ FLUTTER —> Avançado —> [Isolates](https://medium.com/evoluum/fundamentos-de-dart-flutter-e-sua-natureza-assíncrona-parte-1-isolates-62ad32da28f9) <br>
+⚙ FLUTTER —> Avançado —> [Async/wait](https://www.treinaweb.com.br/blog/como-funciona-o-async-await-e-future-no-flutter) <br> <br>
 
-FLUTTER —> State Management —> [MobX](https://medium.com/flutter-students-club/state-management-with-mobx-32552611a481) <br> 
-FLUTTER —> State Management —> [Riverpod](https://codewithandrea.com/articles/flutter-state-management-riverpod/) <br>
-FLUTTER —> State Management —> [BLoc](https://blog.logrocket.com/state-management-flutter-bloc-pattern/) <br>
-FLUTTER —> State Management —> [Provider](https://balta.io/blog/flutter-bloc-provider-state-management) <br> <br>
+⚙ FLUTTER —> State Management —> [MobX](https://medium.com/flutter-students-club/state-management-with-mobx-32552611a481) <br> 
+⚙ FLUTTER —> State Management —> [Riverpod](https://codewithandrea.com/articles/flutter-state-management-riverpod/) <br>
+⚙ FLUTTER —> State Management —> [BLoc](https://blog.logrocket.com/state-management-flutter-bloc-pattern/) <br>
+⚙ FLUTTER —> State Management —> [Provider](https://balta.io/blog/flutter-bloc-provider-state-management) <br> <br>
 
-FLUTTER —> Ferramentas —> [Flutter Inspector](https://docs.flutter.dev/tools/devtools/inspector?gclid=CjwKCAjwseSoBhBXEiwA9iZtxrOMJ24oZaTS7z23yXClHP98gByORzH0J52-a6WxDsgBk04t-hVAHhoCoeIQAvD_BwE&gclsrc=aw.ds) <br>
-FLUTTER —> Ferramentas —> [Flutter Outline](https://medium.com/flutter/flutter-outline-hot-reload-and-the-implementation-of-a-live-widget-preview-69abd39aa3bb) <br>
-FLUTTER —> Ferramentas —> [Memory Application](https://docs.flutter.dev/tools/devtools/memory) <br>
-FLUTTER —> Ferramentas —> [Render Objects](https://api.flutter.dev/flutter/rendering/RenderObject-class.html) <br>
-FLUTTER —> Ferramentas —> [3 Trees](https://medium.com/@omlondhe/flutters-3-tree-architecture-9263b2bd50d1) <br> <br>
+⚙ FLUTTER —> Ferramentas —> [Flutter Inspector](https://docs.flutter.dev/tools/devtools/inspector?gclid=CjwKCAjwseSoBhBXEiwA9iZtxrOMJ24oZaTS7z23yXClHP98gByORzH0J52-a6WxDsgBk04t-hVAHhoCoeIQAvD_BwE&gclsrc=aw.ds) <br>
+⚙ FLUTTER —> Ferramentas —> [Flutter Outline](https://medium.com/flutter/flutter-outline-hot-reload-and-the-implementation-of-a-live-widget-preview-69abd39aa3bb) <br>
+⚙ FLUTTER —> Ferramentas —> [Memory Application](https://docs.flutter.dev/tools/devtools/memory) <br>
+⚙ FLUTTER —> Ferramentas —> [Render Objects](https://api.flutter.dev/flutter/rendering/RenderObject-class.html) <br>
+⚙ FLUTTER —> Ferramentas —> [3 Trees](https://medium.com/@omlondhe/flutters-3-tree-architecture-9263b2bd50d1) <br> <br>
 
-FLUTTER —> Notification —> [Change Notifier](https://docs.flutter.dev/data-and-backend/state-mgmt/simple) <br>
-FLUTTER —> Notification —> [Value Notifier](https://medium.com/@thekavak/flutter-valuenotifier-with-examples-66b3933d7036) <br>
-FLUTTER —> Notification —> [Push](https://clevertap.com/pt-br/ppc/notificacoes-push-demo/) <br> <br>
+⚙ FLUTTER —> Notification —> [Change Notifier](https://docs.flutter.dev/data-and-backend/state-mgmt/simple) <br>
+⚙ FLUTTER —> Notification —> [Value Notifier](https://medium.com/@thekavak/flutter-valuenotifier-with-examples-66b3933d7036) <br>
+⚙ FLUTTER —> Notification —> [Push](https://clevertap.com/pt-br/ppc/notificacoes-push-demo/) <br> <br>
 
-FLUTTER —> Integrations —> [API’s rest](https://medium.com/google-developer-experts/working-with-rest-apis-flutter-f3c8c673f1dc) <br>
-FLUTTER —> Integrations —> [Graph QL](https://blog.codemagic.io/flutter-graphql/) <br>
-FLUTTER —> Integrations —> [Stripe/Braintree](https://allbright.io/blog/mobile-payments-solutions/braintree-vs-mollie-vs-stripe) <br> <br>
+⚙ FLUTTER —> Integrations —> [API’s rest](https://medium.com/google-developer-experts/working-with-rest-apis-flutter-f3c8c673f1dc) <br>
+⚙ FLUTTER —> Integrations —> [Graph QL](https://blog.codemagic.io/flutter-graphql/) <br>
+⚙ FLUTTER —> Integrations —> [Stripe/Braintree](https://allbright.io/blog/mobile-payments-solutions/braintree-vs-mollie-vs-stripe) <br> <br>
 
-FLUTTER —> Unit Testing —> [Widget Testing](https://docs.flutter.dev/cookbook/testing/widget/introduction) <br>
-FLUTTER —> Unit Testing —> [Integration](https://docs.flutter.dev/testing/integration-tests?gclid=CjwKCAjwseSoBhBXEiwA9iZtxirMtN-WN1YghfHNrWO-zsgjCqVV7QDomGU2TgeoCZ-rvgmg7Fx0DhoCRQYQAvD_BwE&gclsrc=aw.ds) <br>
-FLUTTER —> Unit Testing —> [TDD](https://www.browserstack.com/guide/tdd-in-flutter) <br>
-FLUTTER —> Unit Testing —> [BDD](https://medium.com/tide-engineering-team/build-flutter-with-bdd-b4507170a2fe) <br>
+⚙ FLUTTER —> Unit Testing —> [Widget Testing](https://docs.flutter.dev/cookbook/testing/widget/introduction) <br>
+⚙ FLUTTER —> Unit Testing —> [Integration](https://docs.flutter.dev/testing/integration-tests?gclid=CjwKCAjwseSoBhBXEiwA9iZtxirMtN-WN1YghfHNrWO-zsgjCqVV7QDomGU2TgeoCZ-rvgmg7Fx0DhoCRQYQAvD_BwE&gclsrc=aw.ds) <br>
+⚙ FLUTTER —> Unit Testing —> [TDD](https://www.browserstack.com/guide/tdd-in-flutter) <br>
+⚙ FLUTTER —> Unit Testing —> [BDD](https://medium.com/tide-engineering-team/build-flutter-with-bdd-b4507170a2fe) <br>
 
-## BANCO DE DADOS
+## 🧾 BANCO DE DADOS
 
-BDD —> Relacional —> Postgres, Mysql, Sql Server —> <br><br>
+⚙ BDD —> Relacional —> Postgres, Mysql, Sql Server —> <br><br>
 
-[Procedures](https://www.devmedia.com.br/trabalhando-com-stored-procedures-no-postgresql/33354) <br>
-[Views](https://www.convert-in.com/sql-to-postgres-views.htm) <br>
-[Indíce](http://www.bosontreinamentos.com.br/mysql/indices-em-mysql/) <br>
-[Tables](https://www.w3schools.com/mysql/mysql_create_table.asp) <br>
-[Queries](https://www.geeksforgeeks.org/mysql-common-mysql-queries/) <br>
-[Triggers](https://www.devmedia.com.br/mysql-basico-triggers/37462) <br> <br>
+⚙ [Procedures](https://www.devmedia.com.br/trabalhando-com-stored-procedures-no-postgresql/33354) <br>
+⚙ [Views](https://www.convert-in.com/sql-to-postgres-views.htm) <br>
+⚙ [Indíce](http://www.bosontreinamentos.com.br/mysql/indices-em-mysql/) <br>
+⚙ [Tables](https://www.w3schools.com/mysql/mysql_create_table.asp) <br>
+⚙ [Queries](https://www.geeksforgeeks.org/mysql-common-mysql-queries/) <br>
+⚙ [Triggers](https://www.devmedia.com.br/mysql-basico-triggers/37462) <br> <br>
 
 BDD —> Não Relacional —> <br> <br>
 
-[MongoDB](https://www.devmedia.com.br/introducao-ao-mongodb/30792) <br>
-[Redis](https://imasters.com.br/banco-de-dados/introducao-ao-redis-o-nosql-chave-valor-mais-famoso) <br>
-[Elastic Search](https://www.elastic.co/pt/blog/found-elasticsearch-as-nosql) <br>
-[DynamoDB](https://aws.amazon.com/pt/pm/dynamodb/?trk=e27ab896-a1e8-4e50-93c5-d7ce76fe04ed&sc_channel=ps&ef_id=CjwKCAjwseSoBhBXEiwA9iZtxiRRBIkTn8Z224-njO-gn1VZryinLgAuWWg8LfIo-U2sK-bqwWGTJxoC9PoQAvD_BwE:G:s&s_kwcid=AL!4422!3!536393507464!e!!g!!dynamodb!12024810846!121787472211) <br><br>
-[INFOS] —> [collections/documents/índice](https://learn.microsoft.com/pt-br/azure/architecture/data-guide/big-data/non-relational-data) <br> <br>
+⚙ [MongoDB](https://www.devmedia.com.br/introducao-ao-mongodb/30792) <br>
+⚙ [Redis](https://imasters.com.br/banco-de-dados/introducao-ao-redis-o-nosql-chave-valor-mais-famoso) <br>
+⚙ [Elastic Search](https://www.elastic.co/pt/blog/found-elasticsearch-as-nosql) <br>
+⚙ [DynamoDB](https://aws.amazon.com/pt/pm/dynamodb/?trk=e27ab896-a1e8-4e50-93c5-d7ce76fe04ed&sc_channel=ps&ef_id=CjwKCAjwseSoBhBXEiwA9iZtxiRRBIkTn8Z224-njO-gn1VZryinLgAuWWg8LfIo-U2sK-bqwWGTJxoC9PoQAvD_BwE:G:s&s_kwcid=AL!4422!3!536393507464!e!!g!!dynamodb!12024810846!121787472211) <br><br>
+⚙ [INFOS] —> [collections/documents/índice](https://learn.microsoft.com/pt-br/azure/architecture/data-guide/big-data/non-relational-data) <br> <br>
 
 BDD —> Filas/Queue —> <br> <br>
 
-[RabbitMQ](https://blog.4linux.com.br/rabbitmq-introduzindo-processamento-assincrono-atraves-de-filas/) <br>
-[Kafka](https://medium.com/alice-tech/descomplicando-o-apache-kafka-5776d96423d) <br>
+⚙ [RabbitMQ](https://blog.4linux.com.br/rabbitmq-introduzindo-processamento-assincrono-atraves-de-filas/) <br>
+⚙ [Kafka](https://medium.com/alice-tech/descomplicando-o-apache-kafka-5776d96423d) <br>
